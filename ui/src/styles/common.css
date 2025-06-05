@@ -1,0 +1,13 @@
+/* src/styles/common.css */
+
+/* Responsive font sizes for small screens */
+@media (max-width: 600px) {
+    .bar-text-top {
+      font-size: calc(1vw + 1vh);
+    }
+  
+    .search-bar {
+      width: 90%;
+    }
+  }
+  

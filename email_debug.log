@@ -1,0 +1,17 @@
+2024-11-03 17:11:50,805 - INFO - Starting email script...
+2024-11-03 17:11:50,805 - INFO - Connecting to SMTP server mail.blue-marble.com:1025
+2024-11-03 17:11:52,136 - INFO - EHLO command sent
+2024-11-03 17:11:52,242 - INFO - EHLO response: 250 - mail171c38.carrierzone.com Hello c-98-55-44-44.hsd1.co.comcast.net [98.55.44.44], pleased to meet you
+ENHANCEDSTATUSCODES
+8BITMIME
+SIZE 52428800
+DSN
+AUTH LOGIN CRAM-MD5
+STARTTLS
+DELIVERBY
+HELP
+2024-11-03 17:11:52,242 - INFO - Attempting to log in
+2024-11-03 17:11:54,542 - INFO - Login successful
+2024-11-03 17:11:54,543 - INFO - Sending email to john.zeerak@ucdenver.com
+2024-11-03 17:11:55,943 - INFO - Email sent successfully
+2024-11-03 17:11:56,005 - INFO - Script completed.

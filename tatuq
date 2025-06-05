@@ -1,0 +1,600 @@
+[33mcommit 2c1fcd761a814849fac4f3d2e7e4dd7eaee7aeac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:08:06 2024 -0700
+
+    Revert "fix search"
+    
+    This reverts commit edb154c80e5cd71c1a6bee50b5ee6b89b01d8441.
+
+[33mcommit cd2b58a0fb7a5c185f3727516ae21f86805ed3c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:02:01 2024 -0700
+
+    fix search
+
+[33mcommit edb154c80e5cd71c1a6bee50b5ee6b89b01d8441[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:01:02 2024 -0700
+
+    fix search
+
+[33mcommit 71c8adaf9d4405bd18fb24696efdd1be96c81d2b[m
+Merge: 16a64bf 92ff0f4
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 19:22:57 2024 -0700
+
+    Changed API key to new one
+
+[33mcommit 16a64bfeda8890bb3bec033e8b01ccb667f9b0ce[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 19:22:06 2024 -0700
+
+    Changed API key to new one
+
+[33mcommit 92ff0f4bd5d3ac9202a9e7ebce5c220e717ea195[m[33m ([m[1;31morigin/feature/import[m[33m)[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 19:18:08 2024 -0700
+
+    updated home.js with import code
+
+[33mcommit cebe3017e02df512008a7df82bcbfdc8a60fc10e[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 19:16:39 2024 -0700
+
+    Fixed API key by creating and adding new account
+
+[33mcommit 2d6e6031dd540c49defc37e033e43eff7871bbd5[m
+Merge: 75303bb 978250d
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 19:09:33 2024 -0700
+
+    Merge branch 'feature/import' of https://github.com/dparcheta/Media-Metrics-Reboot into feature/import
+
+[33mcommit 75303bb442f79f9e5f6bfe3cf6d6bc5ee7f833a6[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 18:32:01 2024 -0700
+
+    Update home.js
+
+[33mcommit 1d40d88a4022d2b0d8d7bc2ef89a95713ea76d4b[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 18:38:40 2024 -0700
+
+    Update home.js
+
+[33mcommit 978250d4cfb5d4596fb5c3839cd3eae5a5b9522b[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 18:32:01 2024 -0700
+
+    Update home.js
+
+[33mcommit ea9387a10ee4db2011788a92f0414e3b5d9d4830[m
+Merge: 3966d14 2eb0912
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 17:53:47 2024 -0700
+
+    Merge branch 'feature/djangoBackend'
+    Merging the database for articles, search news UI and Django, and logout functionality.
+
+[33mcommit 2eb0912bd12f179fd2e26062eba788ea70a3d387[m[33m ([m[1;31morigin/feature/djangoBackend[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 17:49:05 2024 -0700
+
+    Commit for merge with main
+
+[33mcommit b9441c9a5d1a6e5f604d87f0a0189311a07372f5[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 17:42:44 2024 -0700
+
+    Added logout functionality
+
+[33mcommit 3966d14fa814c09c47d4c9e9e0418979bdbf9b8e[m
+Author: John Zeerak <john.zeerak@ucdenver.edu>
+Date:   Wed Nov 20 22:52:40 2024 +0000
+
+    Revert "Merge branch 'feature/import'"
+    
+    This reverts commit dd999692707cf641c988b1755d8934bbef4b5ec1, reversing
+    changes made to b07bb53d11d9c0665804fbfffc6ab0efa3722281.
+
+[33mcommit dd999692707cf641c988b1755d8934bbef4b5ec1[m
+Merge: b07bb53 b949178
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 15:38:12 2024 -0700
+
+    Merge branch 'feature/import'
+
+[33mcommit b94917877197e8800a47d7e6e7cf37902fc783dd[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 15:37:54 2024 -0700
+
+    Updated CSV file upload
+
+[33mcommit 838fa29659a357d993d2574c97c2392e8415a552[m
+Merge: 7d32b7c b07bb53
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 19 19:51:33 2024 -0700
+
+    Merge branch 'main' into feature/djangoBackend
+
+[33mcommit 7d32b7cbac13ab02f7888dc9b594159bb06ec739[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 19 16:55:58 2024 -0700
+
+    Added Search feature so user can search DB
+
+[33mcommit b07bb53d11d9c0665804fbfffc6ab0efa3722281[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 19 14:05:06 2024 -0700
+
+    deactivated auth for errors
+
+[33mcommit ff74e55c9eecebf85d40aae5bb87d808c1143cf8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 19 10:52:12 2024 -0700
+
+    reeadded auth
+
+[33mcommit 74f3f4f1af0c5f69ba1f68fd5a18d25694b87d0f[m
+Merge: c78f4fc 55b8704
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Nov 19 10:37:16 2024 -0700
+
+    Merge branch 'feature/import'
+
+[33mcommit 55b8704a1666372c02879dd2a3d217bb006375af[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Nov 19 10:32:29 2024 -0700
+
+    Updated SearchForm.js
+
+[33mcommit d1eb020874b67cf6bab1f2014c8a406521175f10[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 19:49:53 2024 -0700
+
+    Attempting fix for password reset
+
+[33mcommit 0b2be6faed2cf0cd2fd51bc7289b754b6813f746[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Nov 18 15:07:19 2024 -0700
+
+    function for uploading articles in csv file to database
+
+[33mcommit d5f44abb00e23217802b02fc58952d174ee350ab[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 13:49:02 2024 -0700
+
+    Added functionality for aggregated articles to be stored in the database.
+
+[33mcommit 2cf44b940db8affbd8bf3fe9b69e23faf35d644b[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 13:40:55 2024 -0700
+
+    Added functionality for aggregated articles to be stored in the database.
+
+[33mcommit c78f4fc92cba471f3dfc9ca08d95c5d757cec773[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Nov 18 13:37:04 2024 -0700
+
+    added exclude search
+
+[33mcommit e7281844ed8bb35d2aafb81def5dc3f44c444cfe[m
+Merge: 690da9d 1344fca
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 13:18:29 2024 -0700
+
+    WIP: Saving changes before switching branches
+
+[33mcommit 1d7d7971e434a3c2cb74a466ccee380ce1d8f440[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Nov 18 13:07:22 2024 -0700
+
+    results per page and max limit resize
+
+[33mcommit 1344fcacfaabd2f84e87f09edf7cbba4b32045c1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Nov 18 13:04:47 2024 -0700
+
+    formatting fixes
+
+[33mcommit 690da9dd7ac7f8dbd12f7a03f03ee6a2ae65528a[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 13:02:16 2024 -0700
+
+    Resolved merge conflict and merged latest changes from main
+
+[33mcommit 88ebde8284fb0e86b6f1ba5b02a1752f29213ade[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 12:39:40 2024 -0700
+
+    Committing local changes before applying stash
+
+[33mcommit eb5c503586d6eeb346ba0c84652f0760ec0ead97[m
+Merge: 7716de4 0f176c2
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 12:37:56 2024 -0700
+
+    Resolved merge conflict and merged main into feature/djangoBackend
+
+[33mcommit 0f176c2c4cef70822783e53eb80e6ab83479c657[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Nov 18 11:42:14 2024 -0700
+
+    Refactor + file reorgnization
+
+[33mcommit e32a1af9b11ced483f86972be6b08ba024c58f81[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 12 17:34:03 2024 -0700
+
+    Auth readded
+
+[33mcommit 4dba10b188bed7a6bc8ea585fc6d4eb90fc4d8e1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 12 17:29:17 2024 -0700
+
+    Commented out authtication
+
+[33mcommit 3474867c5d60f0ded69572dcae73fc3d1dfbb1bb[m
+Merge: ecd879b a6dfc63
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 12 17:24:51 2024 -0700
+
+    merge
+
+[33mcommit a6dfc63acd6b31b62e7a99b43d0a21ff3c6ae312[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Nov 12 10:43:27 2024 -0700
+
+    fixed export file formatting
+
+[33mcommit 2021f06b878573e8aebdb702b2742dfd829202f0[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Nov 12 10:39:14 2024 -0700
+
+    changed export function
+
+[33mcommit 86799dbc5fedb1a0c4e2e50c8dc736e433c169d4[m[33m ([m[1;31morigin/feature/LIME[m[33m, [m[1;32mfeature/modules[m[33m, [m[1;32mfeature/LIME[m[33m)[m
+Merge: 3b015ad baf7130
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 12:43:44 2024 -0700
+
+    Resolved merge conflicts
+
+[33mcommit 7716de478c83baf1a7b3fc681921b7fefa631c71[m
+Merge: baf7130 3b015ad
+Author: Allen Lu <62083692+AllenLu112220@users.noreply.github.com>
+Date:   Tue Nov 5 12:40:07 2024 -0700
+
+    Merge branch 'main' into feature/djangoBackend
+
+[33mcommit 3b015add851799594deb056cfe91f7d94486e632[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 12:22:12 2024 -0700
+
+    Export option
+
+[33mcommit baf71303cb51b6a5b4adf7794be81eec10f03745[m[33m ([m[1;32mfeature/djangoBackend[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 5 11:56:09 2024 -0700
+
+    Search queries will now be recorded in the database if the user is signed in. Added authentication and context.
+
+[33mcommit 8bb747af7710978ff0b99345d6f337404eea11ef[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 5 11:52:26 2024 -0700
+
+    Search queries will now be recorded in the database if the user is signed in. Added authentication and context.
+
+[33mcommit fac25b83bf71dc9380d8b104f1cce4879c351519[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 11:49:16 2024 -0700
+
+    results display fix
+
+[33mcommit 1660bdffac8a93580299b70eb8b4a6932602ad57[m
+Merge: bf56703 833e15b
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 5 11:46:15 2024 -0700
+
+    Search queries will now be recorded in the database if the user is signed in. Added authentication and context.
+
+[33mcommit c79e727d9d1f42a9dc1c9bfa661ff31b5963b2f4[m
+Merge: 9e1b32e 833e15b
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 11:12:07 2024 -0700
+
+    djangobackend and stylesMerge branch 'main' of https://github.com/dparcheta/Media-Metrics-Reboot
+
+[33mcommit 9e1b32e60241d3dd5c770894743e9d6f78915fbc[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 11:11:52 2024 -0700
+
+    font and branding changes
+
+[33mcommit bf5670349e98759796080e7b900c7513299a66c2[m
+Merge: 5ba6db2 c392359
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 4 15:51:44 2024 -0700
+
+    Merge remote-tracking branch 'origin/feature/mediastack-api' into feature/djangoBackend
+
+[33mcommit 5ba6db226f1d25d859070dc10b638a1718371463[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 17:13:01 2024 -0700
+
+    updates to login again
+
+[33mcommit c2d858e1671ef9bc5a12580c2146323bf2f50daf[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 15:57:57 2024 -0700
+
+    updates to login again
+
+[33mcommit a32289b72caee0e8b96af7e678774f15f2ce926b[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 14:32:52 2024 -0700
+
+    updates to login again
+
+[33mcommit 2b3325e3289ab239506f5b1bebf9aebae5d0cd63[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 14:09:52 2024 -0700
+
+    updates to login again
+
+[33mcommit d1a28362ccad5da74a9f741a648af758d436c9d4[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 14:01:27 2024 -0700
+
+    updates to login again
+
+[33mcommit 5e4ca8fecd3f02f7a520428ac93cf02e861893f3[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:45:50 2024 -0700
+
+    updates to login again
+
+[33mcommit 1dc28afa15fcf2cb5cf63ccde9eebcc88e3844f3[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:34:56 2024 -0700
+
+    updates to login again
+
+[33mcommit be4d88dc45af48859a62632a706e4cac56704177[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:29:02 2024 -0700
+
+    updates to login again
+
+[33mcommit 4185a4e4f5851eef6c201b6fa8bb17a7f33937e1[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:25:52 2024 -0700
+
+    updates to login again
+
+[33mcommit 1d6168f9d6c55c482cfdd8a7e3afd8b279eaa29d[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:16:14 2024 -0700
+
+    updates to login again
+
+[33mcommit 8330bcf8f1b652ea337955802f7c323764187122[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 12:45:57 2024 -0700
+
+    minor tweaks to login
+
+[33mcommit d13cda55abbadee2e7378fe68be2e787918fca6b[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 11:55:24 2024 -0700
+
+    minor updates
+
+[33mcommit ecd879bcb3581a282c3fcc3f7d5b33d0967e0247[m
+Merge: 0dce13b 833e15b
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Oct 31 14:03:47 2024 -0600
+
+    Merge branch 'main' of https://github.com/dparcheta/Media-Metrics-Reboot
+
+[33mcommit 0dce13bb0145cacfe85872d7a0da827a9704cedc[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Oct 31 14:03:07 2024 -0600
+
+    Branding font Verdana and colors
+
+[33mcommit 833e15b3fef5a7eea1c8d466dfc4ef7b0e201eff[m
+Merge: f298023 f819e8e
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 30 12:39:38 2024 -0600
+
+    Merge branch 'main' of https://github.com/dparcheta/Media-Metrics-Reboot
+
+[33mcommit f298023d6d7e6921da7fbdf7c11ace9f8002adf8[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 30 12:39:02 2024 -0600
+
+    Update .DS_Store
+
+[33mcommit f819e8e01b4cddd811757ea98ae6e29bcf733d6b[m
+Merge: 32c46b5 6022fe6
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 30 12:37:09 2024 -0600
+
+    Merge pull request #2 from dparcheta/feature/LIME-Categorization
+    
+    Feature/lime categorization
+
+[33mcommit 318d9279414623d6d6a01a15521d3a1cc7a1f724[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Oct 30 00:01:13 2024 -0600
+
+    Attempting push to my branch again was not correctly done it seems.
+
+[33mcommit 69dac6a9e7e433ec759fd303f47e998491bfbc15[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Oct 29 23:34:33 2024 -0600
+
+    Feature complete login and password reset. Created Django directory as well.
+
+[33mcommit 6022fe6e17fa5368f8f6f7dd45b747195e06ff9e[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Oct 29 16:59:04 2024 -0600
+
+    Update .DS_Store
+
+[33mcommit 7e2ca28b33f5d2edf24cf5929f19628a3e775e8d[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Oct 29 16:58:04 2024 -0600
+
+    Oraganized file setup
+
+[33mcommit e4b8e27faf097b423f3d9ccd3aa84070bf8c4440[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 28 14:53:02 2024 -0600
+
+    Training Model and Categorization of Articles
+
+[33mcommit 32c46b5b86fd19e71b3a2006c5cbe5c68b593f9c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Oct 28 13:59:00 2024 -0600
+
+    Updated category forum blog newsletter, pagination, results per page
+
+[33mcommit 71d543e43ab15caebbdbcd4133c505dc9dce4912[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Fri Oct 25 14:55:32 2024 -0600
+
+    The login page should correctly go back to home page
+
+[33mcommit 2deb7e2dca3ab572707faca956934946794b9f96[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Fri Oct 25 13:34:44 2024 -0600
+
+    Added the login functionality as well as Django backend. Created password reset(email confirmation) UI
+
+[33mcommit c392359e7776238da3b16f072c48c77974fe1529[m[33m ([m[1;31morigin/feature/mediastack-api[m[33m, [m[1;32mfeature/mediastack-api[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Oct 22 12:42:53 2024 -0600
+
+    api keyword/date range functionality - data pasring and presenting
+
+[33mcommit 23556c7b6ac7113dc8dc86c08aa84c846b0c7324[m
+Merge: 6703679 b1bbe75
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Oct 22 12:03:35 2024 -0600
+
+    Merge remote-tracking branch 'origin/main' into feature/mediastack-api
+
+[33mcommit 67036798fd1492a320b709009a2601ee69d6cd8d[m
+Author: Allen Lu <62083692+AllenLu112220@users.noreply.github.com>
+Date:   Tue Oct 22 11:53:58 2024 -0600
+
+    Update api_Requests.py with premium account
+
+[33mcommit b1bbe75e8304f9578ac978dadf10d527554c7cf9[m[33m ([m[1;31morigin/feature/ui[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Oct 22 10:43:30 2024 -0600
+
+    adding react-router-dom package
+
+[33mcommit f61803cf24fdd6096fd2a7d4aa83d2187e00e80d[m
+Merge: 9c04766 cfbd9dc
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:26:36 2024 -0600
+
+    Merge branch 'feature/ui' of https://github.com/dparcheta/Media-Metrics-Reboot into feature/ui
+
+[33mcommit 9c047665018084b8953d787cb56eea5a6c26846c[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:26:26 2024 -0600
+
+    Update .DS_Store
+
+[33mcommit c01798290bab0b915d1468b6cc5952d85651627d[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:25:06 2024 -0600
+
+    Seperated .css file into specific files to make it easier to edit
+
+[33mcommit cfbd9dcf6cceee8de34227df77190cf679011504[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:10:51 2024 -0600
+
+    Update README.md
+
+[33mcommit bee5fa9e25f79ad8e97290344cc71ab6d92c4805[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:05:46 2024 -0600
+
+    better file separation for easy scalability, added home page and login page
+
+[33mcommit f0414178238bb2a98d75a3e955ff103b99027364[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Oct 17 16:21:04 2024 -0600
+
+    Update App.css file for dynamic layout
+
+[33mcommit 509cce0c675d65d3f06e46dc21ba3e5551a66f19[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Oct 17 15:51:28 2024 -0600
+
+    formated json output
+
+[33mcommit d50014c01c591f5f4508f945b9b914585490e0ed[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Oct 17 15:50:53 2024 -0600
+
+    Search input field and black bar
+    
+    Added a search box and a black bar. Search box doesn't actually search for anything but can accpet text as a input
+
+[33mcommit da4b6ac4078e867b5515daf6c989c0e1bac24de5[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 16 16:20:44 2024 -0600
+
+    Home Screen UI
+    
+    WIP home screen that has a clear button that reloads the page
+
+[33mcommit e80e924018f06200aec55e73d5931337a0b18b84[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 16 15:15:52 2024 -0600
+
+    test 2
+
+[33mcommit 7add307dae1de226d1af944dac04cd83e76ec89e[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 16 15:06:01 2024 -0600
+
+    test
+
+[33mcommit aa6171d0520c35f213f296b741e3653e2fa6f271[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 16 14:52:10 2024 -0600
+
+    Testing UI
+
+[33mcommit 9a600797f14d4a881606b7e1d1cbbd83d9c85a4f[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Oct 15 18:01:34 2024 -0600
+
+    removed test file
+
+[33mcommit 046e09d980f32eb352d40148f2005ab20d4e7dcb[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Oct 15 18:00:02 2024 -0600
+
+    test
+
+[33mcommit 65c90f8a8b548cd659f143ed67e47c10c41be6ab[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Oct 15 17:34:43 2024 -0600
+
+    MediaStack API Integration
+
+[33mcommit a2767f67b4d93e795b54ac2cc65e58dd62bf7492[m
+Author: Debra Parcheta <dparcheta@gmail.com>
+Date:   Tue Sep 24 13:41:40 2024 -0600
+
+    Initial commit

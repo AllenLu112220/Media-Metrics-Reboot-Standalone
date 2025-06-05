@@ -1,0 +1,73 @@
+.
+├── APIapp
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── DjangoMediaMetrics
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── openaikey.env
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── authapp
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── management
+│   │   └── commands
+│   │       └── create_user.py
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   ├── 0002_alter_customuser_table.py
+│   │   ├── 0003_remove_customuser_passwordhash.py
+│   │   ├── 0004_alter_customuser_password.py
+│   │   ├── 0005_alter_customuser_password.py
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── databaseApp
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   ├── 0002_article.py
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── db.sqlite3
+├── django_structure.txt
+├── fileupload
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── manage.py
+└── serpAPI
+    ├── __init__.py
+    ├── admin.py
+    ├── apps.py
+    ├── migrations
+    │   └── __init__.py
+    ├── models.py
+    ├── tests.py
+    ├── urls.py
+    └── views.py
+
+14 directories, 57 files

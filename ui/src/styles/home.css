@@ -1,0 +1,164 @@
+/* Global styles for the entire page */
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 98%
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  z-index: 2147483647;
+  height: 100vh;
+  overflow-y: auto;
+  position: flex;
+  padding-top: 0px; /* Add some padding to lift content up */
+}
+
+
+/* Top colored bar */
+.colored-bar-top {
+  z-index: 2147483647;
+  background-color: #ff6600; /* Light background color */
+  padding: 10px;
+  padding-left: 15px; /* Adds margin on the left */
+  padding-right: 15px; /* Adds margin on the right */
+  background-image: url('/public/assets/mediaMetricsDogPic.png'), url('/public/assets/blueMarbleLogo.png'); /* Reference the image relative to the public folder */
+  background-size: 4% auto, 4% auto; /* Make sure it fits */
+  background-position: right, left;
+  background-repeat: no-repeat; /* No repeat */
+  height: 100px; /* Adjust height as needed */
+  position: relative;
+}
+
+.bar-text-top {
+  z-index: 2147483647;
+  text-align: center;
+  color: white;
+  font-size: 180%;
+  margin: 0;
+  background-color: #ff6600; /* Add background color */
+  display: inline-block; /* Ensures background only wraps around the text */
+  padding: 5px 20px 8px 20px; /* Top, right, bottom (0), left padding */
+}
+
+/* Middle bar containing Search, Export, Upload and Results per page num buttons */
+.colored-bar-middle {
+  background-color: #ff6600; /* background for the middle bar */
+  display: flex;
+  justify-content: space-evenly; /* Distribute buttons evenly */
+  align-items: center; /* Vertically align the buttons */
+  padding: 10px 20px; /* Optional padding */
+  width: 100%; /* Ensures the container uses the full width */
+}
+
+/* News results container */
+.news-results {
+  flex: 1; /* Allow news results to take available space */
+  overflow-y: auto; /* Scrollable area for news articles */
+  padding: 10px; /* Add padding around the results */
+}
+
+.news-results > ul > li {
+  margin-bottom: 15px;  /* Space between articles */
+  padding-bottom: 10px; /* Optional padding for better spacing */
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.news-article img {
+  max-width: 500px; /* Limit the max width to 500px */
+  max-height: 300px; /* Limit the max height to 300px */
+  width: auto; /* Maintain aspect ratio */
+  height: auto; /* Maintain aspect ratio */
+  display: block;
+  margin: 0 auto; /* Center the image */
+}
+
+/* Image styling for news articles */
+.news-article img {
+  max-width: 300px; /* Maximum width */
+  max-height: 250px; /* Maximum height */
+  width: auto; /* Maintain aspect ratio */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure block display for proper spacing */
+  margin: 0 auto; /* Center the image */
+}
+
+/* Pagination styling */
+/* Pagination styling */
+.pagination-buttons {
+  position: fixed; /* Fix to the bottom */
+  left: 0;
+  right: 0;
+  bottom: 0; /* Always at the bottom */
+  background-color: white; /* Ensure it's visible */
+  z-index: 10; /* Ensure it stays on top of other elements */
+  padding: 10px 0;
+  text-align: center; /* Center the pagination buttons */
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Optional, to add a shadow for better visibility */
+}
+
+.pagination-button:hover {
+  background-color: #007bff; /* Change background on hover */
+  color: white; /* Change text color on hover */
+}
+
+.pagination-button.active {
+  background-color: #007bff; /* Highlight the current page */
+  color: white; /* White text for active page */
+}
+
+/* Results per page dropdown styling */
+.results-per-page-container {
+  display: fixed; /* Use flex to align label and dropdown */
+  align-items: center; /* Align label and dropdown vertically */
+  position: fixed; /* Position the button fixed */
+  bottom: 7px; /* Adjust the distance from the bottom */
+  right: 125px; /* Align to the right corner */
+  z-index: 1001; /* Ensure it is on top of other elements */
+}
+
+.results-per-page-label {
+  margin-right: 10px; /* Add some space between label and dropdown */
+}
+
+select {
+  padding: 5px 10px; /* Add padding to the dropdown */
+}
+
+/* Clear button styling - moved to right corner */
+.Clear-Button {
+  background-color: #345290;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  position: fixed; /* Position the button fixed */
+  bottom: 3px; /* Adjust the distance from the bottom */
+  right: 10px; /* Align to the right corner */
+  z-index: 1000; /* Ensure it is on top of other elements */
+}
+
+.Clear-Button:hover {
+  background-color: #005f8b; /* Change background on hover */
+  color: white; /* Change text color on hover */
+}
+/* Styling for individual article content */
+.article-image {
+  width: 100px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.article-content {
+  display: flex;
+  flex-direction: row; /* Align image and content side by side */
+  align-items: flex-start;
+}
+
+.article-details {
+  margin-left: 10px;
+}
+
+
+

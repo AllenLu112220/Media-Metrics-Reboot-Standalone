@@ -1,0 +1,21 @@
+{
+  "name": "media-metrics-reboot",
+  "version": "1.0.0",
+  "description": "Respository for the 10 year reboot of the Metrics Grabber for the DUV Hunter application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "currentsapi": "^0.1.0",
+    "google-news-scraper": "^2.7.0",
+    "he": "^1.2.0",
+    "newsapi": "^2.4.1",
+    "openai": "^4.86.1",
+    "papaparse": "^5.5.2",
+    "querystring-es3": "^0.2.1",
+    "react-router-dom": "^6.27.0"
+  }
+}

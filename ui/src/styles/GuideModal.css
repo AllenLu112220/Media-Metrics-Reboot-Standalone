@@ -1,0 +1,126 @@
+/* Close button in the top-right corner */
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #ff5f5f;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close-button:hover {
+  background: #ff2b2b;
+}
+
+.Guide-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.Guide-modal-content {
+  max-height: 80vh; /* Keeps the modal at a max height of 80% of the viewport */
+  overflow-y: auto; /* Enables vertical scrolling */
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 600px;  /* Increase width if needed */
+  width: 90%;
+  height: 55vh;  /* Increase height of the modal */
+  text-align: left;
+  position: relative;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+}
+
+.Guide-modal-content ul {
+  list-style-type: none; /* Removes default bullet points */
+  padding-left: 0; /* Removes left padding */
+}
+.Guide-modal-content li {
+  margin-bottom: 8px; /* Adds spacing for readability */
+}
+
+.Guide-modal-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.Guide-modal-content::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.Guide-modal-content::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.Guide-modal-body {
+  flex-grow: 1;  /* Allows it to expand inside modal */
+  max-height: 500px;  /* Adjust as needed */
+  overflow-y: auto; /* Enables vertical scrolling */
+  padding-right: 10px; /* Prevent scrollbar overlap */
+}
+
+.Guide-modal-content button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #345290;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.Guide-modal-content button:hover {
+  background: #0056b3;
+}
+
+/* Ensure table fits */
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+/* Make table take full width */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  max-width: 100%;
+  table-layout: fixed; /* Prevents columns from shrinking too much */
+  word-wrap: break-word;
+}
+
+/* Ensure text wraps properly */
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+  word-break: break-word; /* Breaks long words */
+  overflow-wrap: break-word;
+}
+
+th {
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.Guide-modal-heading{
+  text-align: center;
+}

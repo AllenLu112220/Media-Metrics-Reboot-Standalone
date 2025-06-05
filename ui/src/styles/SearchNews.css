@@ -1,0 +1,5 @@
+.pagination-container {
+    display: flex;
+    justify-content: center;  /* Center the pagination horizontally */
+    margin-top: 20px;  /* Optional, for spacing above pagination */
+  }

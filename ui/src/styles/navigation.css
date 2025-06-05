@@ -1,0 +1,122 @@
+/* src/styles/Navigation.css */
+
+.header-bar {
+  background-color: #ff6600;
+  padding: 10px;
+  z-index: 2147483647;
+  text-align: center;
+  background-image: url('/public/assets/mediaMetricsDogPic.png'), url('/public/assets/blueMarbleLogo.png');
+  background-size: 4% auto, 4% auto;
+  background-position: calc(100% - 20px) center, calc(0% + 20px) center; /* Adjust positions */
+  background-repeat: no-repeat;
+  height: 60px;
+  position: static; /* Ensure it's not fixed or sticky */
+}
+
+.bar-text-top {
+  position: relative; /* Make sure it can use z-index properly */
+  z-index: 2147483647;
+  text-align: center;
+  color: white;
+  font-size: 155%;
+  margin: 0;
+}
+
+nav {
+  background-color: #345290;
+  padding: 4px;
+  position: static; /* Remove any fixed or sticky positioning */
+  z-index: 10;
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  justify-content: space-between;
+  min-height: 35px;
+}
+  
+  /* Navigation list */
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    display:flex
+  }
+  
+  /* Navigation list items */
+  nav ul li {
+    display: inline;
+    margin-right: 30px;
+  }
+
+  .login-item {
+    margin-left: auto; 
+  }
+  
+  /* Navigation links */
+  nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  /* Navigation link hover effect */
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+
+  nav ul li a,
+  nav ul li .logout-link {
+    text-decoration: none;
+    color: #ffffff; /* Link Color */
+    cursor: pointer; /* Makes it clickable */
+  }
+
+  nav ul li a:hover,
+  nav ul li .logout-link:hover {
+    text-decoration: underline; /* Underline effect on hover */
+  }
+  
+
+  /*Guide and Privacy styling on App*/
+.guide-link, .privacy-link, .export-button, .file-upload-button {
+  text-decoration: none;
+  cursor: pointer;
+  color: #ffffff; /* link color */
+  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+  font-size: 1rem; /* Base font size */
+}
+
+/* Hover effect */
+.guide-link:hover, .privacy-link:hover, .export-button:hover, .file-upload-button:hover {
+  text-decoration: underline; /* Underline effect on hover */
+}
+
+/* Responsive scaling when window width is smaller */
+@media (max-width: 1300px) {
+  .guide-link, .privacy-link, .export-button, .file-upload-button {
+    font-size: 0.85rem; /* Make them slightly smaller */
+  }
+}
+
+@media (max-width: 1200px) {
+  nav {
+    flex-direction: column; /* Stack nav sections vertically */
+    align-items: center; /* Center the entire nav */
+    text-align: center; /* Center text inside nav */
+  }
+
+  nav ul {
+    flex-direction: column; /* Stack list items vertically */
+    align-items: center; /* Center items inside the list */
+    width: 100%;
+    padding: 0;
+    margin: 0; /* Remove any default margin */
+  }
+
+  nav ul li {
+    margin: 4px 0; /* Tight vertical spacing between links */
+  }
+
+  nav ul li:first-child {
+    margin-top: 27px; /* Extra space before the first item */
+  }
+
+}
+  

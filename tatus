@@ -1,0 +1,3419 @@
+[33mcommit 5b8f3bccaed3a3a1088a0ea83259dae8c337bee6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: bc1bdd9c 3a181e8e
+Author: John Zeerak <john.zeerak@ucdenver.edu>
+Date:   Mon Mar 3 00:15:53 2025 +0000
+
+    Merge branch 'newuibranch'
+
+[33mcommit 3a181e8eb037087614a616bf18ee20e2b8b47ff1[m[33m ([m[1;31morigin/newuibranch[m[33m, [m[1;32mnewuibranch[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 14:48:54 2025 -0700
+
+    Checking SerpAPI
+
+[33mcommit d0e3a996351b2a548b3df58289963abe241ac9c3[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:55:35 2025 -0700
+
+    Final commit before main merge
+
+[33mcommit 9e22501b78ddd55cfb1abe8b4b73c1feebece840[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:45:13 2025 -0700
+
+    Merged with main
+
+[33mcommit d5f7fa7d8dd6c5411fd0a0c60c29b2eb23145327[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Sun Mar 2 12:11:13 2025 -0700
+
+    changed SerpAPI key
+
+[33mcommit 10ccac18f000702f7e05c1339c739fdd4584e54a[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:36:09 2025 -0700
+
+    Added error handling for max API calls
+
+[33mcommit 322cd394e3776c739cf8ade97596c8542ca04828[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:17:48 2025 -0700
+
+    Added CurrentsAPI with full functionality
+
+[33mcommit b490abf8049a72464c4cfbe1fc737863b0896961[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:09:06 2025 -0700
+
+    border fix
+
+[33mcommit 8676e63b74ec7cb482d356cac147c982de916dda[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:08:29 2025 -0700
+
+    border fix
+
+[33mcommit f5aab8d3c94340fad7462df3c7c83acd85e07247[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:07:58 2025 -0700
+
+    border fix
+
+[33mcommit 62175d4239fa429fb96c003a8638285b35e1c981[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:07:39 2025 -0700
+
+    border fix
+
+[33mcommit c61c7827bc9637dbf997417b8f56955bd79827af[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:06:56 2025 -0700
+
+    border fix
+
+[33mcommit 55e94ddc4e3bf6c3e224b63156832b671b6a16ac[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:05:53 2025 -0700
+
+    border fix
+
+[33mcommit b817dcc4e883e799876f0fc85a5cd967e6d9de50[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:04:45 2025 -0700
+
+    border fix
+
+[33mcommit 77a0275d2db90e537d2e7d3a83b17b550f525a67[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:04:15 2025 -0700
+
+    border fix
+
+[33mcommit 883a1ae6705273c2276442c99cc64795e8c7b2c6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:03:14 2025 -0700
+
+    border fix
+
+[33mcommit 511607d04575d8aaa9a71cee4b6dcd9b9b79ab73[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:02:37 2025 -0700
+
+    border fix
+
+[33mcommit 1025157c76f8c098f61d82dbce3fde94f90af301[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:02:18 2025 -0700
+
+    border fix
+
+[33mcommit fc8d6359740080ec3f337e042187f5a3a50e588d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:01:39 2025 -0700
+
+    border fix
+
+[33mcommit 61818d6bfd82af5425d1e3dfbe2ee30a94a61426[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:01:18 2025 -0700
+
+    border fix
+
+[33mcommit d038e0470702ce44724099a9f1309fde77846544[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 17:00:40 2025 -0700
+
+    border fix
+
+[33mcommit 3e95d0a210703484f5501e8d6bee346bbb19993c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:59:52 2025 -0700
+
+    border fix
+
+[33mcommit 85369c8d7ed7c629369f768edc9f05ccba77e908[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:58:25 2025 -0700
+
+    border fix
+
+[33mcommit 9436cdcd1348f27ccd09a83b9054838a395b6f5d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:57:52 2025 -0700
+
+    border fix
+
+[33mcommit 49422767935d5fafeb2c45e1c157495c92ec65d9[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:56:05 2025 -0700
+
+    border fix
+
+[33mcommit 3392a49c829164722f16ae0f13d5a8cd0f26ea9b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:55:44 2025 -0700
+
+    border fix
+
+[33mcommit ac84fe50b7025eb783d6a15b48bd3082e010e2fd[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:54:24 2025 -0700
+
+    border fix
+
+[33mcommit 13b67164b9cb18ecf41a16012f22217fced373ec[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:53:56 2025 -0700
+
+    border fix
+
+[33mcommit 78a4e344e108bd3f25dfc983ea34d82b272e17e0[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:53:04 2025 -0700
+
+    border fix
+
+[33mcommit b086844ec7d03e3c4795ea91ce5d3a29dd11b061[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:52:23 2025 -0700
+
+    border fix
+
+[33mcommit 9384c6b025da0776ec9cbb083869b695ffc17ea4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:51:50 2025 -0700
+
+    border fix
+
+[33mcommit af3defd14d51da0436e261cd4ce5ab882ef36b91[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:50:10 2025 -0700
+
+    border fix
+
+[33mcommit 5e919ea86a5b64898bf495f7845d7aae704a94b3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:49:22 2025 -0700
+
+    border fix
+
+[33mcommit f41c61b82ced4333d24f4c514b0a35d76881a4f2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:48:21 2025 -0700
+
+    border fix
+
+[33mcommit 5f3730f7660dbd7bee089bb6151591144a5060a6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:47:37 2025 -0700
+
+    border fix
+
+[33mcommit 07c556f0df0b47f5fac1500e151b7ea46b8f2c9d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:46:52 2025 -0700
+
+    border fix
+
+[33mcommit 5daf2da897a8a17135cc6a780b72f916d4509857[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:46:31 2025 -0700
+
+    border fix
+
+[33mcommit 7df9422681adc2b7c1bdf5405b7514d1733b47e5[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:46:09 2025 -0700
+
+    border fix
+
+[33mcommit 4eaecc93df7ba2f027546ea4e1e74a1adf79054c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:45:50 2025 -0700
+
+    border fix
+
+[33mcommit cae77e174a01e8853fe3348d10796edb991fdac2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:45:17 2025 -0700
+
+    border fix
+
+[33mcommit 19ad7f84fef7d3c88d301e89554a44aa081591a9[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:44:37 2025 -0700
+
+    border fix
+
+[33mcommit bf4d0cf6d9a5600d334a86e92e5eb0e7d99ebcb8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:44:09 2025 -0700
+
+    border fix
+
+[33mcommit 8ff14fc9e1f30fd265a35e778e28929c67163180[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:43:41 2025 -0700
+
+    border fix
+
+[33mcommit 3437987b85b87fd167867ae0cb4a163fe7fde82f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:42:38 2025 -0700
+
+    border fix
+
+[33mcommit c3a1905efc60fd5e3bd1829b01360f2e216725c6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:41:45 2025 -0700
+
+    border fix
+
+[33mcommit e12873c13f09d75da5b33ebf7d61d4b8fe2be010[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:41:13 2025 -0700
+
+    border fix
+
+[33mcommit 8507bc0245297bfd1aebc714e60bcf1bf283b7e7[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:40:33 2025 -0700
+
+    border fix
+
+[33mcommit a22e8ce7e3312c588c7cfde9728a3554c4730c7b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:39:37 2025 -0700
+
+    border fix
+
+[33mcommit 0a0b4756ea64ff6483576505f5070f669b7f11bb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:38:12 2025 -0700
+
+    border fix
+
+[33mcommit 5aec77a1d83d2d714cad937748ff2c7339dbae75[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:37:01 2025 -0700
+
+    border fix
+
+[33mcommit 610ed6e58b17542112dac6974ac7a811cc6ae917[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:33:52 2025 -0700
+
+    border fix
+
+[33mcommit acb2dd1c860e580bb0bdb9fbc86efed993138561[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:33:03 2025 -0700
+
+    border fix
+
+[33mcommit 01a032ff660dd463cb16f22612839e696ccde06e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:32:45 2025 -0700
+
+    border fix
+
+[33mcommit 152b3b944d3bd66b3a228121f63ea0737c969f20[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:32:29 2025 -0700
+
+    border fix
+
+[33mcommit 427b66c9419c230ed2d05eba22339f3442ad18ba[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:32:12 2025 -0700
+
+    border fix
+
+[33mcommit 58076daee8450cb3709fede058357142b5f741ff[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Mar 2 16:31:22 2025 -0700
+
+    border fix
+
+[33mcommit bc1bdd9ce1fa6c27b44d2248739888d0a5017132[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 14:48:54 2025 -0700
+
+    Checking SerpAPI
+
+[33mcommit aee1f73de788bb4a7eeee74ad808f99192a88945[m[33m ([m[1;31morigin/feature/currentsAPI[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:55:35 2025 -0700
+
+    Final commit before main merge
+
+[33mcommit 2d23f0ae98fec976f122623b25a5fa5805ba85bc[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:45:13 2025 -0700
+
+    Merged with main
+
+[33mcommit 6b715ff593addb8aa1542c1b2c62ef1497e71044[m
+Merge: 6a5f0def c8b19b49
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:42:42 2025 -0700
+
+    Merge remote-tracking branch 'origin/main' into feature/currentsAPI
+
+[33mcommit 6a5f0def8265dcd4d37fb84791c04edd73379318[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:36:09 2025 -0700
+
+    Added error handling for max API calls
+
+[33mcommit 5e88cfd4a05d1b5689cbd2514e0348470b2e4c4f[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Mar 2 13:17:48 2025 -0700
+
+    Added CurrentsAPI with full functionality
+
+[33mcommit c8b19b49c5be6a6d92568a406c57dc6e21ebbe26[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Sun Mar 2 12:11:13 2025 -0700
+
+    changed SerpAPI key
+
+[33mcommit bc8cabed3962a7ce76be69b87bcfe978e741b633[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:48:24 2025 -0700
+
+    please
+
+[33mcommit 4279d0fb6fb72b3138b9e5f759a27bb841644b78[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:46:16 2025 -0700
+
+    please
+
+[33mcommit 70e1a10ecc665f6408963fa73948eb4b1a85929a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:45:44 2025 -0700
+
+    please
+
+[33mcommit 519d5b5e37260cdd4968558f35d37b4b1cff4bb6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:44:44 2025 -0700
+
+    please
+
+[33mcommit e13546649a20bf02c619c77facc841602f53cdc0[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:42:00 2025 -0700
+
+    please
+
+[33mcommit 7ec4aab6adbb7aa7de9d6ead146b82e3f5b48b93[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:41:17 2025 -0700
+
+    please
+
+[33mcommit 42608288ad7b8bd879d3dff0e183258af46b3e72[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:39:08 2025 -0700
+
+    please
+
+[33mcommit 1460469e9030e084b62706356e099cf66ff7536b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:36:18 2025 -0700
+
+    please
+
+[33mcommit 4351c0df8f188418c10f2757398272864e0045bc[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:35:17 2025 -0700
+
+    please
+
+[33mcommit f3990c5db9d39102cb36cd65067658e6b362447e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:32:02 2025 -0700
+
+    please
+
+[33mcommit 6dc13f31fa6f16adde2bad6839351a16081825f2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:30:17 2025 -0700
+
+    please
+
+[33mcommit 8c2e8241f16bb3348397c901627e7ad7b644bd24[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:29:41 2025 -0700
+
+    please
+
+[33mcommit 98149d8209b5ab43553386f55e61aed260afa6da[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:26:48 2025 -0700
+
+    please
+
+[33mcommit 08da84bf44bbe5fd9571f32c009d75075442fce8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:26:12 2025 -0700
+
+    please
+
+[33mcommit 81e12142a2f900ab5b42040d6f3d963a7281ffb6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:25:29 2025 -0700
+
+    please
+
+[33mcommit f9928acfdb510f38f8dcdea60f4873d2362853ac[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:23:49 2025 -0700
+
+    please
+
+[33mcommit de8359210dd17890f5e913366233d32c54b673dd[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:22:05 2025 -0700
+
+    please
+
+[33mcommit 85b3a8ce63ab9ed486f406e0f7fc5ea233d0ac1b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:19:15 2025 -0700
+
+    please
+
+[33mcommit 7e697076434aaae9a49d6fecf09caf2c6b41b3e4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:18:52 2025 -0700
+
+    please
+
+[33mcommit 342d8ca0d51928ea9e1f07489fb5271a318ac677[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:18:34 2025 -0700
+
+    please
+
+[33mcommit 5191e5206854094bd4c164fc4f56d8aac5bc71c5[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:18:02 2025 -0700
+
+    please
+
+[33mcommit f8e042928a9e63125cc3130a2b1d27f2b7ece39a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:17:33 2025 -0700
+
+    please
+
+[33mcommit 9562adb635d58a00ca93c25ae765f190b1f26007[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:16:34 2025 -0700
+
+    please
+
+[33mcommit a0ced0cc6829e0d3485c12783d33ffd4e4dd9f39[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:14:43 2025 -0700
+
+    please
+
+[33mcommit 239ea4e0c5fa3ea6514ae22e59b224b9a26dc7ef[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:14:02 2025 -0700
+
+    please
+
+[33mcommit c1079c417c9f57eff32deec9a09e841ca3420078[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:12:45 2025 -0700
+
+    please
+
+[33mcommit 9d590dfa2092b7feebb88e861ab41a62343fe10b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:11:36 2025 -0700
+
+    please
+
+[33mcommit e108e79515c6d9afd2999fd049e2c02efadde20e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:09:35 2025 -0700
+
+    please
+
+[33mcommit 327491f189fb5e6326a2b21fbbcc4450d3471e35[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:08:17 2025 -0700
+
+    please
+
+[33mcommit 48c635e42bffcfb23931e9049c97595ccfc2d4a8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:07:44 2025 -0700
+
+    please
+
+[33mcommit 01836dc8ec0cb6ae8e939d6881934900f45326bb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:06:59 2025 -0700
+
+    please
+
+[33mcommit 112d1025be5147b568bdffe95f23e84424806c02[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 14:05:57 2025 -0700
+
+    please
+
+[33mcommit 16e670ced81924427464e985b4f65e8e2ddc47f5[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:58:26 2025 -0700
+
+    please
+
+[33mcommit 619f7f5962010bd202559216236f6e3a89d5145e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:57:48 2025 -0700
+
+    please
+
+[33mcommit 490198eb2b15e6a6e96b4aeb874c6cd10ef1a833[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:56:18 2025 -0700
+
+    please
+
+[33mcommit 6efbee366eb31ac97c88ff78b6d61d500984c12f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:55:24 2025 -0700
+
+    please
+
+[33mcommit ffb765d04320e25c5b1796f0ca3bf7024835581c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:54:14 2025 -0700
+
+    please
+
+[33mcommit 479045a3c986033f5fc6dd097ab1b858c21b13fb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:52:24 2025 -0700
+
+    please
+
+[33mcommit 164d9e489f3b1718c7de787eb23a99f445529999[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:52:00 2025 -0700
+
+    please
+
+[33mcommit 28c7272601c67fa9da215bba27ab0d8210586937[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:50:59 2025 -0700
+
+    please
+
+[33mcommit daf292140cd72f8dd5521e0b5745e5eca711de00[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:47:59 2025 -0700
+
+    please
+
+[33mcommit 59a61d3e08099c453ac1e7ffde46f585007fb0b6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:46:15 2025 -0700
+
+    please
+
+[33mcommit 059e19f7287a99ee6c0887ce4308138e2ef5b35d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:44:48 2025 -0700
+
+    please
+
+[33mcommit e4688a19e972b10cf9c84f110d8ba97fd9deb04e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:42:59 2025 -0700
+
+    please
+
+[33mcommit e67eed6dfd32fe18174d29afa4d923909da3f766[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:41:10 2025 -0700
+
+    please
+
+[33mcommit 8b79394f07453b9b38e8e28059d72a96ca453bd3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:40:09 2025 -0700
+
+    please
+
+[33mcommit d1a754b329fe3073433756b0676ab290f7dee14d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:38:39 2025 -0700
+
+    please
+
+[33mcommit 8a57a77b6bb1e3e58c7d6d104bdb7b8ab82586ad[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:34:03 2025 -0700
+
+    please
+
+[33mcommit 0049467b78eb11e5c16cef8f22360655b7c37fa7[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:33:44 2025 -0700
+
+    please
+
+[33mcommit 1957cc857d82dbb249dcef1d331cf96e33a3e31b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:32:46 2025 -0700
+
+    please
+
+[33mcommit 772477b6150f01e6553ea16ba547ce35c5eb473d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:29:47 2025 -0700
+
+    please
+
+[33mcommit f6cf124036a79435d3a3d0de4ced34ee98fc37c8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:23:55 2025 -0700
+
+    please
+
+[33mcommit 3b51a0249554705937c6192e24ca32b7c8801b09[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:16:05 2025 -0700
+
+    header color swap
+
+[33mcommit 80fdee82ed2c170f6765f442df833760ec2142a1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:15:26 2025 -0700
+
+    header color swap
+
+[33mcommit 37ff60861d10ce102e4b8212edc88455c48dd1a9[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:08:46 2025 -0700
+
+    header color swap
+
+[33mcommit 763d66683a28f2936b34355c49ea31cccf1d5829[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:07:18 2025 -0700
+
+    header color swap
+
+[33mcommit 7bf0eb61073b68de16ef0d283e7422b2e4108910[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:03:33 2025 -0700
+
+    header color swap
+
+[33mcommit 3b7105430297b779bf783d02f62e81dff49146af[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 13:03:08 2025 -0700
+
+    header color swap
+
+[33mcommit 5b56f3843370e6f319ce77f0569f99e46c4a6d5a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:52:11 2025 -0700
+
+    header color swap
+
+[33mcommit b9e56a5684d20419831f3b70877ccbab500a4df6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:51:07 2025 -0700
+
+    header color swap
+
+[33mcommit e32c5e1f1df4bf453d3d6a1f6d82617da71a861b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:48:12 2025 -0700
+
+    header color swap
+
+[33mcommit b5fd7fd3d72926133b82f2281247198f353efc27[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:45:26 2025 -0700
+
+    header color swap
+
+[33mcommit 0be04c9fb35cbfa15d22b30a83718a90cff77605[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:45:02 2025 -0700
+
+    header color swap
+
+[33mcommit dd407467eab494b65332fabc6e13c690cf101834[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:40:07 2025 -0700
+
+    header color swap
+
+[33mcommit 404c27cdb30fc9622d395f3cf5efce0afee92eb4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:38:22 2025 -0700
+
+    header color swap
+
+[33mcommit f157aea7dfe6854b2cb71f34705e089a4170ad60[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:25:19 2025 -0700
+
+    header color swap
+
+[33mcommit baa91f392b3b3e665bd565922d1ae9d2052e36b8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:24:50 2025 -0700
+
+    header color swap
+
+[33mcommit 508a069d08a48e4a2b281e262ec301951d30abff[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:22:23 2025 -0700
+
+    header color swap
+
+[33mcommit b797830770ff182e7ce72d076ec3cf0cc1bae571[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:21:38 2025 -0700
+
+    header color swap
+
+[33mcommit 47b765d7c0958595ba27660d47b430c5500d1170[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:16:15 2025 -0700
+
+    header color swap
+
+[33mcommit 96d088fbd1637c76b0acc5586787d55db6688bef[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:11:04 2025 -0700
+
+    header color swap
+
+[33mcommit a159b23ec14680ffc1fb051d0a82ceff4df4cf14[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 12:09:42 2025 -0700
+
+    header color swap
+
+[33mcommit 312df607389ed69603483fd263adf0a817e8c305[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 11:42:33 2025 -0700
+
+    header color swap
+
+[33mcommit be456143c4dcffd4444b7ef5b9c2db120b44cad4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 11:33:05 2025 -0700
+
+    header color swap
+
+[33mcommit 49f5f3c1351d68d456a47a9aeff2dea9699faeea[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 11:32:05 2025 -0700
+
+    header color swap
+
+[33mcommit 0fb6db5d1e1be496dc3fe09a3f4b04eb6ab3bcec[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 11:26:13 2025 -0700
+
+    header color swap
+
+[33mcommit 5f9e65323ef26051c116b5e57f1741d8c7a6ecf1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 10:24:07 2025 -0700
+
+    header color swap
+
+[33mcommit ac8220c11b23766ea1d121c50b9f133c1ff3028d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 10:23:04 2025 -0700
+
+    header color swap
+
+[33mcommit 68c65cad4ac7add760ba26fd9911f3de98cbb32f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 10:22:12 2025 -0700
+
+    header color swap
+
+[33mcommit 29df42135d30354e9f457db52e4e372e6210bf36[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 10:21:42 2025 -0700
+
+    header color swap
+
+[33mcommit e8f438a890c381ca950b41df51e44a260a154a39[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 10:17:26 2025 -0700
+
+    header color swap
+
+[33mcommit f4af74464b71d94ea26e976850c48a2ebae03666[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Feb 27 10:14:19 2025 -0700
+
+    header color swap
+
+[33mcommit 0ea0cc6a21c9ed270c1c037b75d45cb63a12ed47[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 14:25:29 2025 -0700
+
+    Attempting fix for NewsAPI on main
+
+[33mcommit 31410f10e52c27a4bee685cd8590eec67845fd7a[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 14:15:42 2025 -0700
+
+    attempting fix for login
+
+[33mcommit a2057b7e940ba186b402cb3acb8f286ae1d52119[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 13:58:57 2025 -0700
+
+    attempting fix for login
+
+[33mcommit da8383b50ad11e81d51cb171bfb87564b77594d9[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 13:51:00 2025 -0700
+
+    Localhost bug fix
+
+[33mcommit a697832c52991fed72ccd4c24e6c0a6bc2f3159f[m[33m ([m[1;31morigin/feature/addAPI[m[33m)[m
+Merge: 055232f4 0d8157c5
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 13:45:36 2025 -0700
+
+    Updated NewsAPI to work with updated main branch
+
+[33mcommit 0d8157c50aaebdd2851ba9dea649ba5eacb71bae[m[33m ([m[1;31morigin/feature/createAccount[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 12:13:55 2025 -0700
+
+    Commiting again with updated main branch
+
+[33mcommit 9ae8e185b1280a4f31b5bf44fe41db7c3b07e7a4[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 12:13:45 2025 -0700
+
+    Commiting again with updated main branch
+
+[33mcommit 16dd9457bb57bcf8e275665813022eb7e5032619[m
+Merge: 088341f6 506e7293
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 12:09:09 2025 -0700
+
+    Merge remote-tracking branch 'origin/main' into feature/createAccount
+    Merging Main branch to this branch to test createAccount feature with updated features
+
+[33mcommit 088341f6129c4d8ba4937fc9507d6bb04faf7e04[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 12:07:20 2025 -0700
+
+    Added fully functional create accounts page
+
+[33mcommit 506e7293725c7e07ac02fdd040683c429170363d[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Feb 26 11:53:51 2025 -0700
+
+    Update Login.js
+
+[33mcommit daa99180e3006ddf1442b74d24dc08565dd7e2c6[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Feb 26 11:52:20 2025 -0700
+
+    Update Login.js
+
+[33mcommit 72d8cb1261bc78dd7f65b2b96cb285dfb3db0ebd[m
+Merge: c4cd6a7d 4054b318
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Feb 26 11:29:58 2025 -0700
+
+    Merge branch 'main' into feature/serpAPI
+
+[33mcommit c4cd6a7da84fe4c9b1e84fd0a9e7bc0facd98753[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Feb 26 11:26:44 2025 -0700
+
+    Changed search Form
+
+[33mcommit 055232f4c0c9740b8de7f39033142d3c6978ec77[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 11:18:55 2025 -0700
+
+    added search logic AND, OR, NOT to NewsAPI will return when new query box up
+
+[33mcommit 5c134b5ac6c8dec8580d169450ae48a3a65c2482[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 26 11:18:10 2025 -0700
+
+    added search logic AND, OR, NOT to NewsAPI will return when new query box up
+
+[33mcommit fbd4b474a393527b1eb4ffdc7cf7f8bd0615c2d9[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Feb 26 09:53:22 2025 -0700
+
+    change search engine to google_news, added dates to results
+
+[33mcommit 4054b3180317b5366f67d7ebae38ae6fe24c062b[m[33m ([m[1;32mfeature/googlescraper[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 25 20:15:21 2025 -0700
+
+    merge removed button
+
+[33mcommit ed438af1bb14b6a76b186004e23ae9197eee0441[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 25 19:59:54 2025 -0700
+
+    added image
+
+[33mcommit 0c7b127b52ee2a34c067b6b5c260cb54e50fbe23[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 25 16:08:22 2025 -0700
+
+    Update NewsResults.js
+
+[33mcommit 692d879dca0f840b259425f0fa07fc90bee90574[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 25 12:16:20 2025 -0700
+
+    uses the same search query as other APIs and renders articles
+
+[33mcommit 62d7363fffdceed76ef98a6abbee5dab67a82f5a[m
+Merge: d26330c4 ea5eb8bf
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 25 09:32:39 2025 -0700
+
+    Merge branch 'main' into feature/serpAPI
+
+[33mcommit d26330c4b8db63235f34ee6098b52de7b3433429[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 25 09:32:23 2025 -0700
+
+    Update home.js
+
+[33mcommit f8eb00419a63b39d54fea7cae5d6891680537ea2[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 25 09:31:08 2025 -0700
+
+    a
+
+[33mcommit 12bc21305da1f4c4076b8dc4d22b2c21a9c6c224[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Feb 24 14:17:43 2025 -0700
+
+    updated SerpAPI to pull more articles
+
+[33mcommit ea5eb8bfc87ab5b4df2dfa62e7b02059b0c32a39[m[33m ([m[1;31morigin/UI/searchBox[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 16:52:50 2025 -0700
+
+    fixing localhost issue
+
+[33mcommit 386d846c50aee43a155f6fbbea3f72fbb3279da3[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 16:49:33 2025 -0700
+
+    Added black text over grey colors. Added M dash between date range. Moved query/keywords to top of popup. Added 'Date range' header. Removed blue boxes when editing query, however most is still same there
+
+[33mcommit 0200cd248030a596dbbd7c826381fd2977c5be26[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Sun Feb 23 15:14:11 2025 -0700
+
+    small changes
+
+[33mcommit 777e72ddaaecb1b0608fc1d9074a17e97c10caec[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Sun Feb 23 14:58:59 2025 -0700
+
+    Update serpAPI.js
+
+[33mcommit 99b16c67d113642da0e11db775c7c8cd3e7754a5[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 14:36:25 2025 -0700
+
+    Stylizing date range
+
+[33mcommit 929e41a0b7b0d2519272d5b4851a37e8fad78f74[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 14:35:39 2025 -0700
+
+    Stylizing date range
+
+[33mcommit ae9d5f5ca42046d9e2d1daaed5c19032ebe65160[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 14:34:47 2025 -0700
+
+    Stylizing date range
+
+[33mcommit a217a8d20877b4b9cc51f4eece27a979165a3ed6[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 14:33:59 2025 -0700
+
+    Stylizing date range
+
+[33mcommit 033e3c7be414cdc2025826a3259f8c1db0df94ac[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 14:31:24 2025 -0700
+
+    Stylizing date range
+
+[33mcommit f1624adc1bc12de3dab3e2f7663b31a809edd507[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 14:29:34 2025 -0700
+
+    Stylizing date range
+
+[33mcommit 836851fd778c38df74467daaee8859f9f30f279b[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 14:27:49 2025 -0700
+
+    Stylizing date range
+
+[33mcommit 2897e250084dc76f2c3a33cfd644503eb271345f[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 14:20:17 2025 -0700
+
+    Changed API key
+
+[33mcommit d0b7722a7b63488823278fa2aac6df58699b7a84[m
+Merge: 79390ac8 fad3f393
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 13:27:46 2025 -0700
+
+    Merge branch 'main' of github.com:dparcheta/Media-Metrics-Reboot
+    Pulling from remote repo
+
+[33mcommit 79390ac8fd8fd407f449d07cdefd157ecaf6ca23[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 13:01:45 2025 -0700
+
+    Added a '-' between date range as well as 'Date Range:' header
+
+[33mcommit 4c4732435b1928a51ae937bcdd4600dd3af688f7[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 23 12:36:46 2025 -0700
+
+    Added NewsAPI fully integrated with database. Does not currently support AND,OR,NOT logic.
+
+[33mcommit 6db72adc77da8e0a3ccc9d6cb1bcaae359d9d5ba[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Feb 20 15:21:20 2025 -0700
+
+    Update serpAPI.js
+
+[33mcommit 8466f11b315b2ca8effb669b0505f199c4a67682[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Feb 20 11:24:06 2025 -0700
+
+    display SerpAPI articles
+
+[33mcommit d522addb7af79c525caf4a86cb963d6634c352ef[m
+Merge: f329c9e4 fad3f393
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Feb 20 09:49:15 2025 -0700
+
+    Merge branch 'main' into feature/serpAPI
+
+[33mcommit f329c9e405eb7a4ad34a968d3f7836c75cd5ca70[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Feb 20 09:39:19 2025 -0700
+
+    t
+
+[33mcommit fad3f393360bc80fb3bdfffbd5d3e3f9244377f8[m
+Author: John Zeerak <john.zeerak@ucdenver.edu>
+Date:   Wed Feb 19 21:50:24 2025 +0000
+
+    Remove .pyc files
+
+[33mcommit 16730aac0728e890cf65411ee2f04736d952387e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 14:34:17 2025 -0700
+
+    fix
+
+[33mcommit e0b0a7ccdc907fb8ab77b74d66bf2130ad77cc49[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 14:30:07 2025 -0700
+
+    restart
+
+[33mcommit c7d629ec20756e83a98b6c1d5c4c83cd9e7600a8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 14:16:26 2025 -0700
+
+    fix
+
+[33mcommit 9ab9baa0d58516d218fc8f8101247c8aa2d48631[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 14:11:44 2025 -0700
+
+    fix
+
+[33mcommit df651f56a500b4f0d3364e04b5edfcd0548e9036[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 14:09:29 2025 -0700
+
+    fix
+
+[33mcommit 66805f16496f30dbded10bfca068c9d5c602839f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 13:22:32 2025 -0700
+
+    FIX
+
+[33mcommit d33e7df694a17f82fb0a24efb1f4c30b7f53e3fc[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 13:09:54 2025 -0700
+
+    finala ttempt today
+
+[33mcommit 55dff48c94fc860d9701bb60876e1590c2e8d3c1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 13:07:41 2025 -0700
+
+    finala ttempt today
+
+[33mcommit 921c6d8b6c9382ce9a734524a6686e7fa55d9c3f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:51:03 2025 -0700
+
+    views
+
+[33mcommit 57b8d4fefe5236c44d3416012d2bd8dea2c701db[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:46:41 2025 -0700
+
+    views
+
+[33mcommit d8abc7a58e565c7e3dde71ff2d4da0a1f05126fd[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:42:42 2025 -0700
+
+    views
+
+[33mcommit b8edeecf19743bffcd82728a839dad34b8d11664[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:38:10 2025 -0700
+
+    views
+
+[33mcommit a62951017d9bd907fd6137975f5c98044e64c51d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:33:46 2025 -0700
+
+    views
+
+[33mcommit 52e076ddfb8b968e5b594a6317818e4cdac535fd[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:31:05 2025 -0700
+
+    views
+
+[33mcommit 99729df0e30712d9f44372b28c741e021a53b498[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:23:42 2025 -0700
+
+    views
+
+[33mcommit 064a5b9220416e7a4835552fd8067b264c0940c2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:20:02 2025 -0700
+
+    views
+
+[33mcommit 9dfe39276cc3f3c3e1226b41743f2dd8f503fd9a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 12:17:11 2025 -0700
+
+    views
+
+[33mcommit 0a1c55225aa7f80038277eedf402cff46d10ade3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 11:55:53 2025 -0700
+
+    views
+
+[33mcommit b5600cb87f5141accea21c58bee4663e7b16c28f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 11:50:49 2025 -0700
+
+    views
+
+[33mcommit 6b47fb5324d3a4ff8fd9891cdd906e83b5aef66c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 11:42:23 2025 -0700
+
+    views
+
+[33mcommit 018dec0b0c44fd2bcaf791d9530e5f4b6befa381[m
+Merge: 6de71814 4b392c7e
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 11:29:17 2025 -0700
+
+    Merge branch 'main' of https://github.com/dparcheta/Media-Metrics-Reboot
+
+[33mcommit 6de71814a945e3cb1cb70338882a1db69ec03955[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 11:28:56 2025 -0700
+
+    no external server for scraper
+
+[33mcommit 4b392c7e0a45bd2b0ff5f8100a175444b0b0ed78[m
+Merge: d58ed41e ed68f70f
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Feb 19 11:25:48 2025 -0700
+
+    Merge branch 'feature/update-upload-file'
+
+[33mcommit ed68f70f796b3054c96cf60ce14d0b1efef71a5f[m[33m ([m[1;31morigin/feature/update-upload-file[m[33m, [m[1;32mfeature/update-upload-file[m[33m)[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Feb 19 11:24:06 2025 -0700
+
+    added confirmation message to uploading
+
+[33mcommit d58ed41e03ad7173692d1d96c84e2ae893b03b3b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 11:13:42 2025 -0700
+
+    no external server for scraper
+
+[33mcommit edda8835dadd20796d5a80b6aaa3e8cbd6eee178[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 19 11:11:24 2025 -0700
+
+    no external server for scraper
+
+[33mcommit e43eda3876ce99beff8c739f39b312fa0918232c[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 18 15:57:58 2025 -0700
+
+    Create package 2.json
+
+[33mcommit b0a76e487e44ce9df7597377307c0dadb49af7b8[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 18 12:06:41 2025 -0700
+
+    added serpAPI to django for CORS permission
+
+[33mcommit 9feea44bc0b844743796a6e8d8cc892d4a8fa33f[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 18 11:04:05 2025 -0700
+
+    added serpAPI webscrapping
+
+[33mcommit 90d7d72b3f1339ff6d207aebe8582c60d6dd1e7d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 10:37:26 2025 -0700
+
+    node express server installed
+
+[33mcommit 5bc8b25b3c2b6bb6090d41fe52e3dc7d29d954e7[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 10:34:46 2025 -0700
+
+    node express server installed
+
+[33mcommit fd30bb8a615febe81801d8629fbde928146a6af9[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 10:30:59 2025 -0700
+
+    node express server installed
+
+[33mcommit 0d846abf1442ebff88ba54202153a088304f2b9a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 10:17:44 2025 -0700
+
+    node server
+
+[33mcommit 9948e4cabf3ecfe208d7f3741a4f8c6f2bd9712f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 10:16:34 2025 -0700
+
+    node server
+
+[33mcommit b1692b2aa5a4bf920949f1b5fb121aba2a564443[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 10:08:13 2025 -0700
+
+    node server
+
+[33mcommit 4ebf0ad17c2701842d1c5558bd0328e6df15e9fa[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 10:01:23 2025 -0700
+
+    node server
+
+[33mcommit c471a82be1a2a379ba5cafaea18db1d3f337e9fe[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 09:58:14 2025 -0700
+
+    node server
+
+[33mcommit 2772210f0b6428f6ccba98ea6d41974e203e2f77[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 09:54:44 2025 -0700
+
+    node server
+
+[33mcommit 9378d153ded63635e1aebc184d49fe2416b9b96f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 09:49:08 2025 -0700
+
+    node server
+
+[33mcommit 9b2547f4374ca93043461c173fbddfce1e8a9163[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 09:37:04 2025 -0700
+
+    imports
+
+[33mcommit 000460908fb17c882f402b7725a74fab2b0bde2d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 09:30:23 2025 -0700
+
+    imports
+
+[33mcommit cea79eb68d89ab363c6ddb84d61b588589a266bf[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 09:21:39 2025 -0700
+
+    imports
+
+[33mcommit e8cff0663207eef62cb3fb0d9a27e838b96b6ba4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 09:19:16 2025 -0700
+
+    imports
+
+[33mcommit 1734dc3a85390b21ca80d1131d18e5ff947514bf[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 09:12:01 2025 -0700
+
+    imports
+
+[33mcommit 419f753be720541b34bc1792df8ac72837b1e565[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 08:28:37 2025 -0700
+
+    google news
+
+[33mcommit a5a660fbd293a6608059df11129ffa548aa69a99[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 17 08:24:26 2025 -0700
+
+    searchbar color
+
+[33mcommit 0d40392a0392dd35162b5782d22c0ac4c20ca33b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:59:18 2025 -0700
+
+    font size up
+
+[33mcommit c614598b2ae2d1d6b10799883bd1efdb60fee8cf[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:57:10 2025 -0700
+
+    font size up
+
+[33mcommit 1ac76ef80c3225ef3c623e53e6f31cd77a3ad659[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:55:37 2025 -0700
+
+    font size up
+
+[33mcommit 963739ef04c8ce0a49e11836e07c2fd4fab957d6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:53:44 2025 -0700
+
+    font size up
+
+[33mcommit 00e43053187681826c9c46dafaf6c9e586b95773[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:52:58 2025 -0700
+
+    font size up
+
+[33mcommit 40a2e385047a8fd6125d3fb605db80d5969d4a6d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:52:34 2025 -0700
+
+    font size up
+
+[33mcommit 56e52d2e6c156f00f837c4693620ec308f9d430f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:52:14 2025 -0700
+
+    font size up
+
+[33mcommit ed6d726b8a7eefc186e9fc36a2f77beac5d76553[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:51:42 2025 -0700
+
+    font size up
+
+[33mcommit a83cbce098314f1df51f5ad2057b10a9e0bda082[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:51:17 2025 -0700
+
+    font size up
+
+[33mcommit 462660e6b3c492b786d76adfc71ad4d9b02774da[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:50:16 2025 -0700
+
+    font size up
+
+[33mcommit c6decc5476c0e5b4c126b9b5a6cbac7f4c7265c0[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:49:06 2025 -0700
+
+    font size up
+
+[33mcommit 41c3335775c353b4ab6d769e86a22fc27b82b901[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:45:43 2025 -0700
+
+    font size up
+
+[33mcommit 8da55e0a1f390eebd3fdf99408a51cd55d1f5ec0[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:45:24 2025 -0700
+
+    font size up
+
+[33mcommit e6371939af987280822aabafb1135356fd35fa55[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:44:16 2025 -0700
+
+    font size up
+
+[33mcommit 2293091b9c514cdd35439affa5eca5bad6f23f06[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:39:09 2025 -0700
+
+    font size up
+
+[33mcommit 062d99b2a4af33d95735de8caeeba65cdd855876[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:38:32 2025 -0700
+
+    font size up
+
+[33mcommit 156f9aa809767b2bd1c1be39d6b16980d690e73e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:38:12 2025 -0700
+
+    font size up
+
+[33mcommit 37285585fd64d0ef0d2754e72e4efc92f51ea236[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:37:27 2025 -0700
+
+    font size up
+
+[33mcommit 9faa4bab0ddb4039d62afc3d9d566ae6140ff041[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:36:44 2025 -0700
+
+    font size up
+
+[33mcommit 1ff1ba479392c2b962f882f33387e479c9f9b4f1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:35:58 2025 -0700
+
+    font size up
+
+[33mcommit a7052171141e513cfed641d6c9a58d92cdda2c0a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:35:21 2025 -0700
+
+    font size up
+
+[33mcommit 1600ea47aeffb81513c99be89b410e3480682362[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:34:15 2025 -0700
+
+    font size up
+
+[33mcommit 1968d676d236d996252174a8f72268c93a00ac6e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:33:16 2025 -0700
+
+    font size up
+
+[33mcommit f3f5f3f36137ffae208dad4ea4714958c656d1e5[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:32:15 2025 -0700
+
+    font size up
+
+[33mcommit 2b3d5beb667a2d00118c582084914a41dfaac3b5[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:30:58 2025 -0700
+
+    font size up
+
+[33mcommit 13ce2749566d6a3f7660988b408f449f009e3b91[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:28:52 2025 -0700
+
+    font size up
+
+[33mcommit 950292455c21a607722086cd79194f9dcb1d21bf[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:27:51 2025 -0700
+
+    font size up
+
+[33mcommit 3fcb80198e00ba9477ea6d1a25b1bc403595e2a3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:27:25 2025 -0700
+
+    font size up
+
+[33mcommit e886ee631c04fd5341af4563f044dae1392575ff[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:25:01 2025 -0700
+
+    font size up
+
+[33mcommit 84dddfc06ab37340036fe6a7f4bf60c315a50734[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:24:05 2025 -0700
+
+    font size up
+
+[33mcommit 646ef947635553de9e45b5b86b023bebf8aaa6bb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:23:48 2025 -0700
+
+    font size up
+
+[33mcommit 82bc02c2a07ac21c8b079371dcb5c7a55a65b96e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:23:07 2025 -0700
+
+    font size up
+
+[33mcommit 73ecb3bfb731833d5bd557ab4b2314de1f8b35f3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:22:54 2025 -0700
+
+    font size up
+
+[33mcommit 8e533bd4ac5cc17bf7e7f4d4a5d8af035da37cf8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:22:32 2025 -0700
+
+    font size up
+
+[33mcommit a699e70b6e495909f94358692410521975f21726[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:21:38 2025 -0700
+
+    font size up
+
+[33mcommit a9e16260e3f2a15dd28a6641c3a2e58e466bc8e3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:20:20 2025 -0700
+
+    font size up
+
+[33mcommit 191e6ddb26836a977461d91fe0c96b16f5b9a587[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:18:37 2025 -0700
+
+    font size up
+
+[33mcommit 6bb4a265aeca81f466018f4e610383600c5ef549[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:17:53 2025 -0700
+
+    font size up
+
+[33mcommit 64d0f56b65ea0dca74de030cc05095cf536288d9[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:15:20 2025 -0700
+
+    font size up
+
+[33mcommit b0c2996d7df3ed9e081349543204f4f3c0456c9e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:14:39 2025 -0700
+
+    font size up
+
+[33mcommit a34e0195eb1c322c1184d04d7a2dfe9c5caedcb7[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:14:11 2025 -0700
+
+    font size up
+
+[33mcommit 8823d04cf48c54492118fdfc37bba4c3961a7140[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:13:08 2025 -0700
+
+    font size up
+
+[33mcommit 5a3faaec5c9a7c2122a03fba4f42bc5c7a2b641e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:12:15 2025 -0700
+
+    font size up
+
+[33mcommit fd4c479cce6949a1ddf8b95f99d821c8a15889d2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:11:48 2025 -0700
+
+    font size up
+
+[33mcommit c5d1d0105201bdebde137962c8f22bdaad1b59d3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:11:04 2025 -0700
+
+    font size up
+
+[33mcommit fa8c711c747690951c79ef143ac6736d8bd59f2e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:09:11 2025 -0700
+
+    font size up
+
+[33mcommit e4409a228f549a08b198d39a99c842d12ec37e73[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:08:39 2025 -0700
+
+    font size up
+
+[33mcommit 6b2d963949b6ab1f5a9bab464038cd387d776c97[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:07:50 2025 -0700
+
+    color changes
+
+[33mcommit 0a13acf6aa56ecb299fff1d47d13e3ccadcb37be[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:04:47 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 94fac1dc8da68442bb91ede01d629a92a06c83a4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 12:03:03 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 4fc82fce0ca868197c3c3ef90481d04350d9da0a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:59:48 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 62cc9cb07a2137f590257b3394245391852b4ee8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:58:38 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 3686ffd90f33130c1bbbf653afc8e88f1e9d6b72[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:57:21 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 3aa87dd024b90887b83f0c9b33f1999c2685a0d2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:54:30 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 164f91229ae1edcf425db166b3086fc9a6205169[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:52:25 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 2a7b80895c319eeae172012a7160dae0a83dc606[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:50:42 2025 -0700
+
+    ui changes for popup
+
+[33mcommit bf3d034bf3f21b51e1d9d6b78e17fb11467655ee[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:47:31 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 42c660ad78579e7b9c3f246aadb577d3acc51fa0[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:44:28 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 803f42372bbf6a78627a5ae9cef8826054a0ecb0[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:38:26 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 92642204f30bb5bff4a00b17b6d192140198cbd7[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:33:53 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 85760b700d8692a97df93e096ef24b9f3c2bbfa8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:32:39 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 9dc66f5e2ab7c3a05a2993ecb5cab5200a4aaa68[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:28:00 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 785ed08587198bd2c74a6868fa223b916a62193b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:26:00 2025 -0700
+
+    ui changes for popup
+
+[33mcommit c2d57b23388b548834084dfb4bffab18c8c78690[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:24:16 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 39923603ba0e67132e624469e69c1fad52ba221c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:23:33 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 05ba2a4cab5491fcf11221901a6e35eaa013359c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:21:34 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 228cd47ed2f42de0869aa299e2f29c0d187d3015[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:20:17 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 50d2b5fa0eb5c5605d83d361fbdc0b168298b9c7[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:18:55 2025 -0700
+
+    ui changes for popup
+
+[33mcommit e9ef8a89ecf0eedde1e64148913688a37fdd8b90[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:17:01 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 741bcaedb55095863a9f33ac3c697f8aa14cc553[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:16:40 2025 -0700
+
+    ui changes for popup
+
+[33mcommit f23140a861d53136ea7b8cbfb1b0ffacc5ceccf1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:15:20 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 12936844d97ea026d022aaacd1126ece8e2934f1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:14:28 2025 -0700
+
+    ui changes for popup
+
+[33mcommit a5494612334c235118bfe8875012debe25859006[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:13:48 2025 -0700
+
+    ui changes for popup
+
+[33mcommit ef8bb7b9e70c76de58fcb65874dae474acd9f33b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:12:10 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 1feff32a18d65b30f59813cf0f24a1e95d4a0274[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:10:26 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 5e4a9398896393fc655216c9034584e5c886ac82[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:08:37 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 075bb5500e058a135f04473887dee15cb323af12[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:07:10 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 4f65cf5944b567fc3df8c65e901b9a09edcff5cb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:06:20 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 70fb01c8811b090a95b47a430b2ae579699f278c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:03:39 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 295809b94d8dbc8c47af0369a99582377ed3c656[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:03:20 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 6a8ec841993ba77f383e9ad150c26ad6293db550[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:02:30 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 92b0d5279a18e1e1aba5134775ae33d88e67d525[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:02:02 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 88ebf5a752698cbcc33b5718f733de40b9208c18[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:00:20 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 10df78d2213db7451f90384d99433f86a5926a01[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 11:00:00 2025 -0700
+
+    ui changes for popup
+
+[33mcommit bcf5ec3fd3368f6a863299919d3bf00a41bc3a69[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:58:49 2025 -0700
+
+    ui changes for popup
+
+[33mcommit b1b44e90970d6d99235a4f8d4e2a030e6cc32691[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:58:36 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 43d7e27e56e36ccabbc78178adb76a18664fa754[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:57:48 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 87ff8fa2148ae2ae3d8efeb63494e46ddf975f82[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:56:29 2025 -0700
+
+    ui changes for popup
+
+[33mcommit e5279c15146b3f55e7ec210e751349c0875570c7[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:56:01 2025 -0700
+
+    ui changes for popup
+
+[33mcommit fd700233e0d7f77a4363911d039266de458f791e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:55:38 2025 -0700
+
+    ui changes for popup
+
+[33mcommit edaa098f94bca3b82f130ad6ea0ff34197145067[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:54:51 2025 -0700
+
+    ui changes for popup
+
+[33mcommit f575e564d1442ec2e1e2a2e114a80a588166538b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:54:07 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 7cf3fa84daf708f82829d4434a457057ac7cf726[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:52:05 2025 -0700
+
+    ui changes for popup
+
+[33mcommit e883c28ac2417ed7ff86c12f3254da7f6d2ba008[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:51:02 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 8f9f477cd9127791abbd5ca684b66f772cef360b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:50:38 2025 -0700
+
+    ui changes for popup
+
+[33mcommit d0a8a9d6a8da7c42d70e75336f0046063d3cfaeb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:49:56 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 14662a5873598f3d8d0a051f7fe687261fa7f2e4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:49:20 2025 -0700
+
+    ui changes for popup
+
+[33mcommit d6314009c46ccb2b3d02882af45100f02d8056a5[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:48:13 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 3c6295d1625ea182d1bc4c28ddf58a9a93c595a8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:47:36 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 88177b2bebe05486ce17ca30d80e539ccddf1a39[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:46:26 2025 -0700
+
+    ui changes for popup
+
+[33mcommit db0ceafff32737c0c2cf9437a59b28bfefa7027a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:44:51 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 9bcf170bc48ca736a8caf1ed40498e2d6837ec8e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:44:14 2025 -0700
+
+    ui changes for popup
+
+[33mcommit a3592d5cf39cd076b87873a9444385a7a22caa0d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:43:02 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 120bb9171e7edaece91890012f50753d6b6ece01[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:40:51 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 830ba41a85b9d61768aa28db37925cc1e296b953[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:39:10 2025 -0700
+
+    ui changes for popup
+
+[33mcommit 2c8dc1138027284ef1febfc1f9ecd293f1b4dd60[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:34:48 2025 -0700
+
+    category alpha
+
+[33mcommit 0050c131f4725da52ab171d99a1a8bcc721b90e4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 10:24:24 2025 -0700
+
+    date fix for the 9th time
+
+[33mcommit 58b50cc089df38ae38bfda86b0051fcd708a0ee2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 09:32:50 2025 -0700
+
+    openai api key change
+
+[33mcommit 97ee38b647200463db77a5b0a6334d9838284d49[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sun Feb 16 09:28:52 2025 -0700
+
+    categories alpha
+
+[33mcommit 1effdcca3b4477ae9fdbabe4485487135e8262c9[m
+Merge: 49cbda8a 6ba80259
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Feb 13 11:17:44 2025 -0700
+
+    Merge branch 'feature/button-edits'
+
+[33mcommit 6ba80259596efc6c1f18054de341e763574e67a8[m[33m ([m[1;31morigin/feature/button-edits[m[33m)[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Feb 13 11:17:31 2025 -0700
+
+    Change Clear button to not reload page
+
+[33mcommit 49cbda8a3988f66c66614b4dc62759822b637ad2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 11 18:08:16 2025 -0700
+
+    fot size change
+
+[33mcommit 95c2fcd5fee400dcd19c3bf3e46c68f744104fde[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 11 18:07:46 2025 -0700
+
+    fot size change
+
+[33mcommit ee378da00ac2621c3aa58fbf852225b78b48e0dd[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 11 17:18:00 2025 -0700
+
+    popup
+
+[33mcommit 6c54cc4f42d594c5ba9b927318437e3461763156[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 11 17:15:55 2025 -0700
+
+    popup
+
+[33mcommit 5b2f0a5b0c08fe5c7272dd8b81e60ccf5372b8fb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 11 17:15:07 2025 -0700
+
+    popup
+
+[33mcommit 55edb42c17c45245bc2ba0616f82e0153f21fd75[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 11 13:08:29 2025 -0700
+
+    updated from localhost to live server
+
+[33mcommit f647d39b799780c1781658128b02b7b10ad56025[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 11 12:04:25 2025 -0700
+
+    Moved upload and export to navi bar, centered search button, results per page to bottom left
+
+[33mcommit 365076b95c86ddf6bee479f56531d1bdf9243947[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 11 11:01:22 2025 -0700
+
+    Update home.js
+
+[33mcommit d8349f3b5284560fc6a60fc3889c7024a70f85ef[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Feb 10 16:18:21 2025 -0700
+
+    moved Export and Upload buttons to NaviBar
+
+[33mcommit 69e3af3e96d85aae4592610f11185d49a20b9259[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:58:22 2025 -0700
+
+    Date fix agian
+
+[33mcommit 62b9470b36eb5486807b9e8de432f65f5c9e88e6[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:56:35 2025 -0700
+
+    Date fix agian
+
+[33mcommit a5f2c0ec651f5a5a644fba9408af5fd2fe2e3bed[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:56:00 2025 -0700
+
+    Date fix agian
+
+[33mcommit 0cf2943c85f6ca2297077c9adf074d47c364682c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:54:40 2025 -0700
+
+    Date fix agian
+
+[33mcommit d73c8b2eb1bf384f10fe581721ebd6755a09f49f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:53:22 2025 -0700
+
+    Date fix agian
+
+[33mcommit 3528edf9e65b4c1d3a7c4f908873b38ba8e2d120[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:50:51 2025 -0700
+
+    Date fix agian
+
+[33mcommit 91db4bd9fb1c33e3fcd36927c687efb4c3352de4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:46:26 2025 -0700
+
+    Date fix agian
+
+[33mcommit c7565c70efd3b03c320a3743dc5a8a860b2b4411[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:45:35 2025 -0700
+
+    Date fix agian
+
+[33mcommit 7bc67393caeeae64abe357627df832141552a463[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:45:04 2025 -0700
+
+    Date fix agian
+
+[33mcommit c12ef4c7a1f0f39785f7b20ad5fc7e3f2cf5ea8d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Feb 10 10:38:41 2025 -0700
+
+    Date fix agian
+
+[33mcommit 99ee7d6a8e752f216bcbc188b8f3fd4ccf030f00[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Feb 10 10:32:23 2025 -0700
+
+    bug fixed localhost issue
+
+[33mcommit 8008cdb16ab0da8c31bfd5a76c3a8ac477194cca[m[33m ([m[1;31morigin/article-UI[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 9 13:18:18 2025 -0700
+
+    added media metrics image. moved login/logout to right. Added username to logout.
+
+[33mcommit 9d6d6a27ea878d2f397877fd37e498d089ed5cf9[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 9 13:13:57 2025 -0700
+
+    Added username to logout button. Moved Login/Logout to right side of screen.
+
+[33mcommit a9ff899a80dffc74f4ac88ad52d91c20f1a220ea[m
+Merge: debfee0c 3ffa9965
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 9 12:45:31 2025 -0700
+
+    Merge remote-tracking branch 'origin/main' into article-UI
+
+[33mcommit debfee0c0657eb820846fdecfe3b6bc6e99a19ee[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Feb 9 12:43:53 2025 -0700
+
+    Added image, grey bars, and moved author and published date to below image
+
+[33mcommit 3ffa9965b75b286f175b84ebc46079c10e3298a0[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Sat Feb 8 17:33:23 2025 -0700
+
+    Decluttered buttons
+
+[33mcommit 39ed1416a24ee73a856f64083dc528277cbd2273[m
+Merge: e50fed38 48adbe33
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Feb 6 11:01:37 2025 -0700
+
+    Merge branch 'main' into feature/button-edits
+
+[33mcommit 48adbe332265cc3d90d0c4da90b01b793ba0581b[m
+Merge: 1e487181 b04024b2
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 5 12:07:07 2025 -0700
+
+    Merge branch 'djangoFixes'
+    Removed duplicates and added HMTL decoder
+
+[33mcommit b04024b2f927ddd37387993d854453b88278715c[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 5 12:06:35 2025 -0700
+
+    Updated home.js
+
+[33mcommit a63d7a7b2993d8c71157fd2b08453ba9a5144eba[m[33m ([m[1;31morigin/djangoFixes[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 5 12:04:45 2025 -0700
+
+    bug fixes
+
+[33mcommit 418d9d7b91bce47bd2676f80e65df1d49cfa0fab[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 5 11:58:56 2025 -0700
+
+    bug fix
+
+[33mcommit 1e487181bd8f173ba95d80c2b23c39763e300adb[m
+Merge: e46575bf a8dc85e3
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 5 11:49:54 2025 -0700
+
+    Merge branch 'djangoFixes'
+
+[33mcommit e46575bf034bdf6a0ec39f4fcb175ae1233925ec[m
+Merge: 5f47e56e 6daaae78
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 5 11:43:56 2025 -0700
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 5f47e56e98236856b43f1274a254f7ec1146ef1a[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 5 11:42:31 2025 -0700
+
+    Database no longer stores duplicates & added HTML decoder for raw HTML sometimes in articles
+
+[33mcommit a8dc85e3d6a8d21b9a126aa3dc9ca517124a9d96[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Feb 5 11:33:57 2025 -0700
+
+    Reordered database to support ManyToOne relationship to prevent duplicates articles in database
+
+[33mcommit 6daaae789bb01bc87a4b99808aa8fce6c05068f5[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Feb 5 11:13:00 2025 -0700
+
+    batch requests api
+
+[33mcommit 6fda4ce97b13db80c2d025d43561ce6c64c46eba[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 4 17:05:58 2025 -0700
+
+    date range fix again
+
+[33mcommit d0381c269065bed1367289ef3ef83e0ccf0da875[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 4 17:03:52 2025 -0700
+
+    date range fix again
+
+[33mcommit 4ec382b18687e8e1d5d3a4a3c87187c585f3b672[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 4 17:02:27 2025 -0700
+
+    date range fix again
+
+[33mcommit e36ad2e0a927e4e77b987eea03f16dec521bccaf[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Feb 4 16:51:06 2025 -0700
+
+    date range fix again
+
+[33mcommit e50fed382a245f38133dfe4e30b7f4d931b62180[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Feb 4 14:28:24 2025 -0700
+
+    Moved export and upload buttons to decrease clutter
+
+[33mcommit 142ee62630144c98c130c3d4890514bff6d533fb[m[33m ([m[1;31morigin/feature/Privacy[m[33m)[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Jan 30 17:15:24 2025 -0700
+
+    Added a Privacy Notice to the Navigation Bar
+
+[33mcommit f83e843b4b5bd85de0d17c55bca067cc1c246cce[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Jan 30 16:54:19 2025 -0700
+
+    Moved the guide button to the navigation/menu bar at the top
+
+[33mcommit 705caf5bcc7a20de9cdcde0b6aeba367ac008337[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Jan 29 13:15:15 2025 -0700
+
+    removed localhost settings
+
+[33mcommit 71176f3dd843273e78373e5c0f2e7539f93af740[m
+Merge: 96966515 8b72489c
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Jan 29 13:09:56 2025 -0700
+
+    Merge branch 'feature/djangoBackend'
+
+[33mcommit 969665153a024e774ceac54afd6b3c7f2b647975[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Jan 29 12:53:07 2025 -0700
+
+    Update home.js
+
+[33mcommit 2dbead8d70df151c5d8ea351e87813ce3feda814[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Jan 29 12:50:13 2025 -0700
+
+    Update home.js
+
+[33mcommit 9a15a13dcf467be9401150a2fca56e1698b085c6[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Jan 29 12:47:05 2025 -0700
+
+    Update home.js
+
+[33mcommit a47d4a8c9bbec3ab246b4c2694af86924db038b9[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Jan 29 12:38:08 2025 -0700
+
+    Update home.js
+
+[33mcommit 919bc2dc8616f6870cb4704f7032fc6ea07f496c[m
+Merge: c1b432c6 a9982592
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Jan 29 11:58:13 2025 -0700
+
+    Merge branch 'feature/guide-popup'
+
+[33mcommit c1b432c637642057d215669ecf287d7168bef12f[m
+Merge: 0e434a38 f0349ba6
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Jan 29 11:57:54 2025 -0700
+
+    Merge branch 'main' of https://github.com/dparcheta/Media-Metrics-Reboot
+
+[33mcommit 0e434a38a72bb6a5ef2e5e99108eb67636e85ccc[m
+Merge: 7d7534d6 2908dbe1
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Jan 29 11:54:51 2025 -0700
+
+    Merge branch 'feature/openai'
+
+[33mcommit 2908dbe1f697c2f2b0d6d91c2d686f8c4ba9632a[m[33m ([m[1;31morigin/feature/openai[m[33m, [m[1;32mfeature/openai[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Jan 29 11:25:46 2025 -0700
+
+    Changed OpenAI API Key
+
+[33mcommit 4010eb444966e120522c841281703605ab553e3f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Jan 29 11:20:43 2025 -0700
+
+    Changed OpenAI API Key
+
+[33mcommit c623d66eba7ac979e6e5bf0b9269881ee332d534[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Jan 29 10:41:17 2025 -0700
+
+    Changed OpenAI API Key
+
+[33mcommit 8555337714280ade7c7c891fbc5e4283478e60b4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Wed Jan 29 10:38:39 2025 -0700
+
+    Changed OpenAI API Key
+
+[33mcommit 8b72489c6a33c763509c1368e856d8f8ce90ebdf[m[33m ([m[1;31morigin/feature/djangoBackend[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Jan 29 10:08:40 2025 -0700
+
+    Removed search database feature and implemented database search to main search query on Home page
+
+[33mcommit 7afe643ac6947264647c0914c585cab8ebb4177d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:43:38 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 259a13b9e40ce4c6506e7b65c44ba07e74493d53[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:32:50 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 53ce4ac4d78111e76a05d73cc3cb9133c4664ab3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:30:48 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 210069183d2716534dc00d11ede0ac86e332127b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:24:52 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit db58fd16aa932f785ff0ca3048ba11795b4403aa[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:23:24 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit e6451e33f96f6885d29ce5c7d30e4140ba02fcc3[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:20:19 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 95046884d498fd8d844be1aa069cb6625fc3b8bf[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:15:25 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 8518c363e3d2416a85f61f33d244aaab83d94f71[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:14:04 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit a9982592db11463ff82f5fdd176379b1367a2f93[m[33m ([m[1;31morigin/feature/guide-popup[m[33m)[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Jan 28 14:11:58 2025 -0700
+
+    added Guide pop up
+
+[33mcommit e0a34647e6de0ed8e70e9233fe33738a3b66046c[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:10:36 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 8de583d4d4556e643b58cdac2a2d783d8d8c2ff5[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:07:07 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit b48918b59c443ebe22c12eb0c3bb30fefda4818f[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 14:00:17 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 64f7f383e459a297d206527143da9037e4f57d3d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:57:12 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit e3ee67e316b252802754a69ad875c22348cddc2e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:54:34 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 426aa62add62c612a99f493e948b5a550dfc6f45[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:52:43 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 12d2035eb1bb5fc34467f80bedc9cc1abcb5b9a4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:52:00 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit df8a76273ed8c35bcb8fc4f37af09f88df6e7859[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:50:18 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 28d40e59aee7142d2f27eff557d6141bd5037f5a[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:48:50 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit ac940bf25d2d83e98ceeecf448c760d48179ce55[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:41:48 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 8b389776ab00245a389a65a6cd61c7d909388d99[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:39:31 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 69f0a39a2f5f67dafc3e860cd79c6572cd5447a2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:34:01 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 9b0ae127eb07f5dcc93933f766c39c191e9fbbd1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:30:55 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 8df0fdd3c9b68dbf0af127d6f55933be4f65b12d[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:25:32 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 52461d4e4966ca028f1807d4206815400ffba2e4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:23:35 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 4a4fd0987e9159dfe92a025f8786682a58403101[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:20:34 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 249bc86adde754ed59594bae8a0a2058566914a4[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:10:20 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit ff022b4c9dda0534fa56bad995edf87dead61431[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 13:06:55 2025 -0700
+
+    search bar boolean logic + popout
+
+[33mcommit 86f229a770d26d697c9151c61965f3690f34f376[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 12:49:00 2025 -0700
+
+    date fix
+
+[33mcommit f0349ba67228c2ffdb5a557aa24ae5b47d392058[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 12:40:09 2025 -0700
+
+    Date range bug fix
+
+[33mcommit c33cec507d725762bf64b5b289caf79f8a54cf48[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 12:39:07 2025 -0700
+
+    Date range bug fix
+
+[33mcommit ef353ae7a3f43c3eb68ae876a816c915143b56e8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Jan 28 12:31:13 2025 -0700
+
+    Date range bug fix
+
+[33mcommit 7a83e1acdc380137d1bdf21b158b7a308ff1c6eb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Jan 27 11:57:45 2025 -0700
+
+    date fix
+
+[33mcommit 7d7534d69bd4c907e593aa329c94304600ecb453[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Sat Nov 23 06:43:47 2024 -0700
+
+    Vinh key api
+
+[33mcommit 7dc8a4b395fc5d045c816a56f4a79d8524f5d665[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 18:06:05 2024 -0700
+
+    asdsa
+
+[33mcommit dde8270825f6b52ab3f6f80dd2381f69c2a08b9c[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Nov 21 16:51:41 2024 -0700
+
+    Update README.md
+
+[33mcommit ffdcfad89b2c3fd6eb4e1a84897cba4f744675f1[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Thu Nov 21 16:27:14 2024 -0700
+
+    Updated README.md
+
+[33mcommit f3094803e01e7c995ad3b364ac2424db6e338b6d[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Thu Nov 21 15:26:52 2024 -0700
+
+    Updates to README
+
+[33mcommit f04c32e95f7d7d7b3be97ae55d0e4b7ef272c7b0[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Nov 21 15:16:13 2024 -0700
+
+    Update README.md
+
+[33mcommit ee537ed80671417b352476439b0a9313ec812c11[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Nov 21 15:03:57 2024 -0700
+
+    Update README.md
+
+[33mcommit c4f8c09d7afb548301e40e4253a3fc0224374106[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Nov 21 14:54:38 2024 -0700
+
+    Create requirement.txt that lists all python packages used
+
+[33mcommit 1063bb60bf930b10bdbab68388d95299ce6d9846[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 14:20:38 2024 -0700
+
+    PLEASE
+
+[33mcommit c462d7b696006eb21802a3a42b793de673dcfd74[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 14:17:45 2024 -0700
+
+    PLEASE
+
+[33mcommit 2c91ada9250df2349f9fc4f8076513de71aa1158[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 14:16:54 2024 -0700
+
+    PLEASE
+
+[33mcommit 6274d162da08439066a75b1a42aca9635714df44[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 14:14:33 2024 -0700
+
+    PLEASE
+
+[33mcommit ee2c6f1d0644fb14e70afcfde9a0bb72fdd6a5cb[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 14:11:59 2024 -0700
+
+    PLEASE
+
+[33mcommit 89002d65cce13f68e40ca778bb6fbca348906ae2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 14:10:19 2024 -0700
+
+    PLEASE
+
+[33mcommit 2fd1eb470e27e4ff118f6ebb4b7e0277c6d0da84[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 14:03:23 2024 -0700
+
+    PLEASE
+
+[33mcommit 486ce1f4335446ff7fa2370b37cb3f56535ecfe0[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 14:00:36 2024 -0700
+
+    PLEASE
+
+[33mcommit a0130420c2e9317baa01a90426607ffce3a1dd06[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:56:35 2024 -0700
+
+    PLEASE
+
+[33mcommit 04e87d706533494cb5ac20b01b9e53b55ab4301e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:55:17 2024 -0700
+
+    PLEASE
+
+[33mcommit c0c1b2849e935b784f9682670da044ae6bfabc86[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:49:21 2024 -0700
+
+    PLEASE
+
+[33mcommit fe718df35bd4cad8e75c914d20036266663e6521[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:46:35 2024 -0700
+
+    PLEASE
+
+[33mcommit 2df8169c238fac910c3ef1132a85bca262de7806[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:44:04 2024 -0700
+
+    PLEASE
+
+[33mcommit 32ee1af96c8af764bad667b3467dba2426723e88[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:39:27 2024 -0700
+
+    PLEASE
+
+[33mcommit 1eeb4e2691b4b0c35df5cc3f432914fb27bafa4b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:37:33 2024 -0700
+
+    PLEASE
+
+[33mcommit 02c5b7a12df2d7ceaf723a614f403808aa9277f2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:35:43 2024 -0700
+
+    PLEASE
+
+[33mcommit a900bd2abb5c3bbb24378277335889d7536dbb17[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:32:20 2024 -0700
+
+    PLEASE
+
+[33mcommit 1ba6d21911acebbeeb526b56977f2985d052e483[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:30:55 2024 -0700
+
+    PLEASE
+
+[33mcommit 5419b786706af4e8e57d7accc947901a16506895[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:25:12 2024 -0700
+
+    PLEASE
+
+[33mcommit c8941f5c29688704088b89a31a7e702e9196313b[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:21:42 2024 -0700
+
+    PLEASE
+
+[33mcommit bb4a9d4f6f4dd309af509f65adc06155663c7b9e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:11:41 2024 -0700
+
+    woops john
+
+[33mcommit 2c1fcd761a814849fac4f3d2e7e4dd7eaee7aeac[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:08:06 2024 -0700
+
+    Revert "fix search"
+    
+    This reverts commit edb154c80e5cd71c1a6bee50b5ee6b89b01d8441.
+
+[33mcommit cd2b58a0fb7a5c185f3727516ae21f86805ed3c9[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:02:01 2024 -0700
+
+    fix search
+
+[33mcommit edb154c80e5cd71c1a6bee50b5ee6b89b01d8441[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 13:01:02 2024 -0700
+
+    fix search
+
+[33mcommit 7778003fdc8547fc905673c6a454492d25ab34de[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 12:41:39 2024 -0700
+
+    Auto Categorization using openai12
+
+[33mcommit f8c9ad941964768231fc338486a0efacc26df12e[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 12:27:27 2024 -0700
+
+    Auto Categorization using openai1
+
+[33mcommit 5c880d7ba9c41e32fb610b80c779b1266258d3a2[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Nov 21 12:11:17 2024 -0700
+
+    Auto Categorization using openai
+
+[33mcommit 71c8adaf9d4405bd18fb24696efdd1be96c81d2b[m
+Merge: 16a64bfe 92ff0f4b
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 19:22:57 2024 -0700
+
+    Changed API key to new one
+
+[33mcommit 16a64bfeda8890bb3bec033e8b01ccb667f9b0ce[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 19:22:06 2024 -0700
+
+    Changed API key to new one
+
+[33mcommit 92ff0f4bd5d3ac9202a9e7ebce5c220e717ea195[m[33m ([m[1;31morigin/feature/import[m[33m)[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 19:18:08 2024 -0700
+
+    updated home.js with import code
+
+[33mcommit cebe3017e02df512008a7df82bcbfdc8a60fc10e[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 19:16:39 2024 -0700
+
+    Fixed API key by creating and adding new account
+
+[33mcommit 2d6e6031dd540c49defc37e033e43eff7871bbd5[m
+Merge: 75303bb4 978250d4
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 19:09:33 2024 -0700
+
+    Merge branch 'feature/import' of https://github.com/dparcheta/Media-Metrics-Reboot into feature/import
+
+[33mcommit 75303bb442f79f9e5f6bfe3cf6d6bc5ee7f833a6[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 18:32:01 2024 -0700
+
+    Update home.js
+
+[33mcommit 1d40d88a4022d2b0d8d7bc2ef89a95713ea76d4b[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 18:38:40 2024 -0700
+
+    Update home.js
+
+[33mcommit 978250d4cfb5d4596fb5c3839cd3eae5a5b9522b[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 18:32:01 2024 -0700
+
+    Update home.js
+
+[33mcommit ea9387a10ee4db2011788a92f0414e3b5d9d4830[m
+Merge: 3966d14f 2eb0912b
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 17:53:47 2024 -0700
+
+    Merge branch 'feature/djangoBackend'
+    Merging the database for articles, search news UI and Django, and logout functionality.
+
+[33mcommit 2eb0912bd12f179fd2e26062eba788ea70a3d387[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 17:49:05 2024 -0700
+
+    Commit for merge with main
+
+[33mcommit b9441c9a5d1a6e5f604d87f0a0189311a07372f5[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Nov 20 17:42:44 2024 -0700
+
+    Added logout functionality
+
+[33mcommit 3966d14fa814c09c47d4c9e9e0418979bdbf9b8e[m
+Author: John Zeerak <john.zeerak@ucdenver.edu>
+Date:   Wed Nov 20 22:52:40 2024 +0000
+
+    Revert "Merge branch 'feature/import'"
+    
+    This reverts commit dd999692707cf641c988b1755d8934bbef4b5ec1, reversing
+    changes made to b07bb53d11d9c0665804fbfffc6ab0efa3722281.
+
+[33mcommit dd999692707cf641c988b1755d8934bbef4b5ec1[m
+Merge: b07bb53d b9491787
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 15:38:12 2024 -0700
+
+    Merge branch 'feature/import'
+
+[33mcommit b94917877197e8800a47d7e6e7cf37902fc783dd[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Nov 20 15:37:54 2024 -0700
+
+    Updated CSV file upload
+
+[33mcommit 838fa29659a357d993d2574c97c2392e8415a552[m
+Merge: 7d32b7cb b07bb53d
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 19 19:51:33 2024 -0700
+
+    Merge branch 'main' into feature/djangoBackend
+
+[33mcommit 7d32b7cbac13ab02f7888dc9b594159bb06ec739[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 19 16:55:58 2024 -0700
+
+    Added Search feature so user can search DB
+
+[33mcommit b07bb53d11d9c0665804fbfffc6ab0efa3722281[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 19 14:05:06 2024 -0700
+
+    deactivated auth for errors
+
+[33mcommit ff74e55c9eecebf85d40aae5bb87d808c1143cf8[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 19 10:52:12 2024 -0700
+
+    reeadded auth
+
+[33mcommit 74f3f4f1af0c5f69ba1f68fd5a18d25694b87d0f[m
+Merge: c78f4fc9 55b8704a
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Nov 19 10:37:16 2024 -0700
+
+    Merge branch 'feature/import'
+
+[33mcommit 55b8704a1666372c02879dd2a3d217bb006375af[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Nov 19 10:32:29 2024 -0700
+
+    Updated SearchForm.js
+
+[33mcommit d1eb020874b67cf6bab1f2014c8a406521175f10[m[33m ([m[1;32mfeature/djangoBackend[m[33m)[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 19:49:53 2024 -0700
+
+    Attempting fix for password reset
+
+[33mcommit 0b2be6faed2cf0cd2fd51bc7289b754b6813f746[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Nov 18 15:07:19 2024 -0700
+
+    function for uploading articles in csv file to database
+
+[33mcommit d5f44abb00e23217802b02fc58952d174ee350ab[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 13:49:02 2024 -0700
+
+    Added functionality for aggregated articles to be stored in the database.
+
+[33mcommit 2cf44b940db8affbd8bf3fe9b69e23faf35d644b[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 13:40:55 2024 -0700
+
+    Added functionality for aggregated articles to be stored in the database.
+
+[33mcommit c78f4fc92cba471f3dfc9ca08d95c5d757cec773[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Nov 18 13:37:04 2024 -0700
+
+    added exclude search
+
+[33mcommit e7281844ed8bb35d2aafb81def5dc3f44c444cfe[m
+Merge: 690da9dd 1344fcac
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 13:18:29 2024 -0700
+
+    WIP: Saving changes before switching branches
+
+[33mcommit 1d7d7971e434a3c2cb74a466ccee380ce1d8f440[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Nov 18 13:07:22 2024 -0700
+
+    results per page and max limit resize
+
+[33mcommit 1344fcacfaabd2f84e87f09edf7cbba4b32045c1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Nov 18 13:04:47 2024 -0700
+
+    formatting fixes
+
+[33mcommit 690da9dd7ac7f8dbd12f7a03f03ee6a2ae65528a[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 13:02:16 2024 -0700
+
+    Resolved merge conflict and merged latest changes from main
+
+[33mcommit 88ebde8284fb0e86b6f1ba5b02a1752f29213ade[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 12:39:40 2024 -0700
+
+    Committing local changes before applying stash
+
+[33mcommit eb5c503586d6eeb346ba0c84652f0760ec0ead97[m
+Merge: 7716de47 0f176c2c
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 18 12:37:56 2024 -0700
+
+    Resolved merge conflict and merged main into feature/djangoBackend
+
+[33mcommit 0f176c2c4cef70822783e53eb80e6ab83479c657[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Nov 18 11:42:14 2024 -0700
+
+    Refactor + file reorgnization
+
+[33mcommit e32a1af9b11ced483f86972be6b08ba024c58f81[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 12 17:34:03 2024 -0700
+
+    Auth readded
+
+[33mcommit 4dba10b188bed7a6bc8ea585fc6d4eb90fc4d8e1[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 12 17:29:17 2024 -0700
+
+    Commented out authtication
+
+[33mcommit 3474867c5d60f0ded69572dcae73fc3d1dfbb1bb[m
+Merge: ecd879bc a6dfc63a
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 12 17:24:51 2024 -0700
+
+    merge
+
+[33mcommit a6dfc63acd6b31b62e7a99b43d0a21ff3c6ae312[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Nov 12 10:43:27 2024 -0700
+
+    fixed export file formatting
+
+[33mcommit 2021f06b878573e8aebdb702b2742dfd829202f0[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Nov 12 10:39:14 2024 -0700
+
+    changed export function
+
+[33mcommit 86799dbc5fedb1a0c4e2e50c8dc736e433c169d4[m[33m ([m[1;31morigin/feature/LIME[m[33m)[m
+Merge: 3b015add baf71303
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 12:43:44 2024 -0700
+
+    Resolved merge conflicts
+
+[33mcommit 7716de478c83baf1a7b3fc681921b7fefa631c71[m
+Merge: baf71303 3b015add
+Author: Allen Lu <62083692+AllenLu112220@users.noreply.github.com>
+Date:   Tue Nov 5 12:40:07 2024 -0700
+
+    Merge branch 'main' into feature/djangoBackend
+
+[33mcommit 3b015add851799594deb056cfe91f7d94486e632[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 12:22:12 2024 -0700
+
+    Export option
+
+[33mcommit baf71303cb51b6a5b4adf7794be81eec10f03745[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 5 11:56:09 2024 -0700
+
+    Search queries will now be recorded in the database if the user is signed in. Added authentication and context.
+
+[33mcommit 8bb747af7710978ff0b99345d6f337404eea11ef[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 5 11:52:26 2024 -0700
+
+    Search queries will now be recorded in the database if the user is signed in. Added authentication and context.
+
+[33mcommit fac25b83bf71dc9380d8b104f1cce4879c351519[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 11:49:16 2024 -0700
+
+    results display fix
+
+[33mcommit 1660bdffac8a93580299b70eb8b4a6932602ad57[m
+Merge: bf567034 833e15b3
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Nov 5 11:46:15 2024 -0700
+
+    Search queries will now be recorded in the database if the user is signed in. Added authentication and context.
+
+[33mcommit c79e727d9d1f42a9dc1c9bfa661ff31b5963b2f4[m
+Merge: 9e1b32e6 833e15b3
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 11:12:07 2024 -0700
+
+    djangobackend and stylesMerge branch 'main' of https://github.com/dparcheta/Media-Metrics-Reboot
+
+[33mcommit 9e1b32e60241d3dd5c770894743e9d6f78915fbc[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Nov 5 11:11:52 2024 -0700
+
+    font and branding changes
+
+[33mcommit bf5670349e98759796080e7b900c7513299a66c2[m
+Merge: 5ba6db22 c392359e
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Mon Nov 4 15:51:44 2024 -0700
+
+    Merge remote-tracking branch 'origin/feature/mediastack-api' into feature/djangoBackend
+
+[33mcommit 5ba6db226f1d25d859070dc10b638a1718371463[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 17:13:01 2024 -0700
+
+    updates to login again
+
+[33mcommit c2d858e1671ef9bc5a12580c2146323bf2f50daf[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 15:57:57 2024 -0700
+
+    updates to login again
+
+[33mcommit a32289b72caee0e8b96af7e678774f15f2ce926b[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 14:32:52 2024 -0700
+
+    updates to login again
+
+[33mcommit 2b3325e3289ab239506f5b1bebf9aebae5d0cd63[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 14:09:52 2024 -0700
+
+    updates to login again
+
+[33mcommit d1a28362ccad5da74a9f741a648af758d436c9d4[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 14:01:27 2024 -0700
+
+    updates to login again
+
+[33mcommit 5e4ca8fecd3f02f7a520428ac93cf02e861893f3[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:45:50 2024 -0700
+
+    updates to login again
+
+[33mcommit 1dc28afa15fcf2cb5cf63ccde9eebcc88e3844f3[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:34:56 2024 -0700
+
+    updates to login again
+
+[33mcommit be4d88dc45af48859a62632a706e4cac56704177[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:29:02 2024 -0700
+
+    updates to login again
+
+[33mcommit 4185a4e4f5851eef6c201b6fa8bb17a7f33937e1[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:25:52 2024 -0700
+
+    updates to login again
+
+[33mcommit 1d6168f9d6c55c482cfdd8a7e3afd8b279eaa29d[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 13:16:14 2024 -0700
+
+    updates to login again
+
+[33mcommit 8330bcf8f1b652ea337955802f7c323764187122[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 12:45:57 2024 -0700
+
+    minor tweaks to login
+
+[33mcommit d13cda55abbadee2e7378fe68be2e787918fca6b[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Sun Nov 3 11:55:24 2024 -0700
+
+    minor updates
+
+[33mcommit ecd879bcb3581a282c3fcc3f7d5b33d0967e0247[m
+Merge: 0dce13bb 833e15b3
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Oct 31 14:03:47 2024 -0600
+
+    Merge branch 'main' of https://github.com/dparcheta/Media-Metrics-Reboot
+
+[33mcommit 0dce13bb0145cacfe85872d7a0da827a9704cedc[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Oct 31 14:03:07 2024 -0600
+
+    Branding font Verdana and colors
+
+[33mcommit 833e15b3fef5a7eea1c8d466dfc4ef7b0e201eff[m
+Merge: f298023d f819e8e0
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 30 12:39:38 2024 -0600
+
+    Merge branch 'main' of https://github.com/dparcheta/Media-Metrics-Reboot
+
+[33mcommit f298023d6d7e6921da7fbdf7c11ace9f8002adf8[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 30 12:39:02 2024 -0600
+
+    Update .DS_Store
+
+[33mcommit f819e8e01b4cddd811757ea98ae6e29bcf733d6b[m
+Merge: 32c46b5b 6022fe6e
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 30 12:37:09 2024 -0600
+
+    Merge pull request #2 from dparcheta/feature/LIME-Categorization
+    
+    Feature/lime categorization
+
+[33mcommit 318d9279414623d6d6a01a15521d3a1cc7a1f724[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Wed Oct 30 00:01:13 2024 -0600
+
+    Attempting push to my branch again was not correctly done it seems.
+
+[33mcommit 69dac6a9e7e433ec759fd303f47e998491bfbc15[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Tue Oct 29 23:34:33 2024 -0600
+
+    Feature complete login and password reset. Created Django directory as well.
+
+[33mcommit 6022fe6e17fa5368f8f6f7dd45b747195e06ff9e[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Oct 29 16:59:04 2024 -0600
+
+    Update .DS_Store
+
+[33mcommit 7e2ca28b33f5d2edf24cf5929f19628a3e775e8d[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Oct 29 16:58:04 2024 -0600
+
+    Oraganized file setup
+
+[33mcommit e4b8e27faf097b423f3d9ccd3aa84070bf8c4440[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 28 14:53:02 2024 -0600
+
+    Training Model and Categorization of Articles
+
+[33mcommit 32c46b5b86fd19e71b3a2006c5cbe5c68b593f9c[m[33m ([m[1;32mfeature/mediastack-api[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Mon Oct 28 13:59:00 2024 -0600
+
+    Updated category forum blog newsletter, pagination, results per page
+
+[33mcommit 71d543e43ab15caebbdbcd4133c505dc9dce4912[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Fri Oct 25 14:55:32 2024 -0600
+
+    The login page should correctly go back to home page
+
+[33mcommit 2deb7e2dca3ab572707faca956934946794b9f96[m
+Author: johnzeerak <zeerakjohn4@gmail.com>
+Date:   Fri Oct 25 13:34:44 2024 -0600
+
+    Added the login functionality as well as Django backend. Created password reset(email confirmation) UI
+
+[33mcommit c392359e7776238da3b16f072c48c77974fe1529[m[33m ([m[1;31morigin/feature/mediastack-api[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Oct 22 12:42:53 2024 -0600
+
+    api keyword/date range functionality - data pasring and presenting
+
+[33mcommit 23556c7b6ac7113dc8dc86c08aa84c846b0c7324[m
+Merge: 67036798 b1bbe75e
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Oct 22 12:03:35 2024 -0600
+
+    Merge remote-tracking branch 'origin/main' into feature/mediastack-api
+
+[33mcommit 67036798fd1492a320b709009a2601ee69d6cd8d[m
+Author: Allen Lu <62083692+AllenLu112220@users.noreply.github.com>
+Date:   Tue Oct 22 11:53:58 2024 -0600
+
+    Update api_Requests.py with premium account
+
+[33mcommit b1bbe75e8304f9578ac978dadf10d527554c7cf9[m[33m ([m[1;31morigin/feature/ui[m[33m)[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Oct 22 10:43:30 2024 -0600
+
+    adding react-router-dom package
+
+[33mcommit f61803cf24fdd6096fd2a7d4aa83d2187e00e80d[m
+Merge: 9c047665 cfbd9dcf
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:26:36 2024 -0600
+
+    Merge branch 'feature/ui' of https://github.com/dparcheta/Media-Metrics-Reboot into feature/ui
+
+[33mcommit 9c047665018084b8953d787cb56eea5a6c26846c[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:26:26 2024 -0600
+
+    Update .DS_Store
+
+[33mcommit c01798290bab0b915d1468b6cc5952d85651627d[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:25:06 2024 -0600
+
+    Seperated .css file into specific files to make it easier to edit
+
+[33mcommit cfbd9dcf6cceee8de34227df77190cf679011504[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:10:51 2024 -0600
+
+    Update README.md
+
+[33mcommit bee5fa9e25f79ad8e97290344cc71ab6d92c4805[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Mon Oct 21 13:05:46 2024 -0600
+
+    better file separation for easy scalability, added home page and login page
+
+[33mcommit f0414178238bb2a98d75a3e955ff103b99027364[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Oct 17 16:21:04 2024 -0600
+
+    Update App.css file for dynamic layout
+
+[33mcommit 509cce0c675d65d3f06e46dc21ba3e5551a66f19[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Thu Oct 17 15:51:28 2024 -0600
+
+    formated json output
+
+[33mcommit d50014c01c591f5f4508f945b9b914585490e0ed[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Thu Oct 17 15:50:53 2024 -0600
+
+    Search input field and black bar
+    
+    Added a search box and a black bar. Search box doesn't actually search for anything but can accpet text as a input
+
+[33mcommit da4b6ac4078e867b5515daf6c989c0e1bac24de5[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 16 16:20:44 2024 -0600
+
+    Home Screen UI
+    
+    WIP home screen that has a clear button that reloads the page
+
+[33mcommit e80e924018f06200aec55e73d5931337a0b18b84[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 16 15:15:52 2024 -0600
+
+    test 2
+
+[33mcommit 7add307dae1de226d1af944dac04cd83e76ec89e[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 16 15:06:01 2024 -0600
+
+    test
+
+[33mcommit aa6171d0520c35f213f296b741e3653e2fa6f271[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Wed Oct 16 14:52:10 2024 -0600
+
+    Testing UI
+
+[33mcommit 9a600797f14d4a881606b7e1d1cbbd83d9c85a4f[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Oct 15 18:01:34 2024 -0600
+
+    removed test file
+
+[33mcommit 046e09d980f32eb352d40148f2005ab20d4e7dcb[m
+Author: vinh-tran03 <156937623+vinh-tran03@users.noreply.github.com>
+Date:   Tue Oct 15 18:00:02 2024 -0600
+
+    test
+
+[33mcommit 65c90f8a8b548cd659f143ed67e47c10c41be6ab[m
+Author: LuAllen1122 <156222850+LuAllen1122@users.noreply.github.com>
+Date:   Tue Oct 15 17:34:43 2024 -0600
+
+    MediaStack API Integration
+
+[33mcommit a2767f67b4d93e795b54ac2cc65e58dd62bf7492[m[33m ([m[1;32mfeatures/ui[m[33m)[m
+Author: Debra Parcheta <dparcheta@gmail.com>
+Date:   Tue Sep 24 13:41:40 2024 -0600
+
+    Initial commit
