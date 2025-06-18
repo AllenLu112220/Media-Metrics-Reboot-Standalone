@@ -1,7 +1,7 @@
 # Media-Metrics-Reboot
 Respository for the 10 year reboot of the Media Metrics Grabber for the DASH-hound application.
 
-DASH Hound collects news coverage based on a user defined keyword set and a time frame. This project's output feeds into a larger media analysis system that combines the news coverage with other media analyitcs. 
+DASH Hound collects news coverage based on a user defined keyword set and a time frame. This project's output feeds into a larger media analysis system that combines the news coverage with other media analyitcs. It also utilizes OpenAI API for custom categorization of articles via header and summary. 
 
 ## Table of Contents
 - [Instructions](#instructions)
