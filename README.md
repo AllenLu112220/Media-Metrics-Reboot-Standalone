@@ -7,6 +7,7 @@ DASH Hound collects news coverage based on a user defined keyword set and a time
 - [Instructions](#instructions)
 - [How to Use](#how-to-use)
 - [Features](#features)
+- [AI-Powered Categorization](#ai-powered categorization)
 - [API Documentation](#api-documentation)
 - [Future Considerations](#future-considerations)
 
@@ -50,12 +51,49 @@ This feature lets users view their previous 10 search queries, including keyword
 ### Search Database (Admin Only)
 This component allows administrator-level users to search through all aggregated news in the database through the use of keywords or publication names. Additionally, the user must specify their start and end date.
 
-
 ## API Documentation
 DASH-Hound uses the following APIs to gather aggregated articles.  
  **MediaStack API**
 - Our project currently integrates with the MediaStack API, which provides aggregated news data. 
 - Free plan: allows access to news from the past three months and offers 100 API calls per month.
+
+## AI-Powered Categorization
+
+We use **ChatGPT-4.0 API** to dynamically generate **custom categories** for articles based on their:
+
+- Title  
+- Summary  
+- Keywords  
+
+This extends our static taxonomy and helps surface niche or emerging topics.
+
+### Example Prompt ChatGPT-4:
+
+```json
+{
+  "model": "gpt-4",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a news analyst. Categorize articles into modern topics like 'AI Regulation', 'Climate Startups', 'Data Privacy', etc."
+    },
+    {
+      "role": "user",
+      "content": "Title: 'Congress Debates New AI Regulation Bill'\nSummary: 'A new bipartisan bill seeks to limit the scope of AI in surveillance...'\nKeywords: ['AI', 'Congress', 'Legislation']"
+    }
+  ]
+}
+```
+
+Result:
+```json
+{
+  "category": "AI Regulation"
+}
+```
+
+These dynamic categories are stored in the backend alongside the article and displayed in the UI.
+
 
 **SerpAPI** 
 - SerpAPI is a web scrapping API that allows you to scrape the results from Google search. DASH-Hound uses the Google News scrapper provided by SerpAPI.
@@ -72,6 +110,3 @@ DASH-Hound uses the following APIs to gather aggregated articles.
 ## Future Considerations
 - Expand to include more information-sharing mediums such as blogs and forums. ​
  
-- Addition of more APIs to get even more articles​
-
-- Include summaries of articles using AI
