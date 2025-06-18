@@ -7,7 +7,7 @@ DASH Hound collects news coverage based on a user defined keyword set and a time
 - [Instructions](#instructions)
 - [How to Use](#how-to-use)
 - [Features](#features)
-- [AI-Powered Categorization](#ai-powered categorization)
+- [AI-Powered Categorization](#ai-powered-categorization)
 - [API Documentation](#api-documentation)
 - [Future Considerations](#future-considerations)
 
